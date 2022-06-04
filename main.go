@@ -41,14 +41,15 @@ func NewColor(c string) (Color, error) {
 }
 
 type Pois struct {
-	Pois []Poi `json:"pois"`
+	Points []Point `json:"pois"`
 }
 
-type Poi struct {
-	Id          int    `json:"id"`
-	Name        string "json:name"
-	Coordinates string "json:coordinates"
-	Color       Color  "json:color"
+type Point struct {
+	Id    int     `json:"id"`
+	Name  string  `json:"name"`
+	Color Color   `json:"color"`
+	Lat   float64 `json:"lat"`
+	Lon   float64 `json:"lon"`
 }
 
 func init() {
@@ -90,7 +91,7 @@ var toJsonCmd = &cobra.Command{
 }
 
 func mapDataToJson(file string) (Pois, error) {
-	var pois []Poi
+	var pois []Point
 	fByte, err := os.ReadFile(file)
 	if err != nil {
 		return Pois{}, err
@@ -99,11 +100,27 @@ func mapDataToJson(file string) (Pois, error) {
 	for _, fStr := range fStrArr {
 		poiArr := strings.Split(fStr, " ")
 		if len(poiArr) < 3 {
-			fmt.Printf("invalid input: %v\n\n", poiArr)
+			// fmt.Printf("invalid input: %v\n\n", poiArr)
 			continue
 		}
-		var poi Poi
-		poi.Coordinates = poiArr[0]
+		var poi Point
+		ll := strings.Split(poiArr[0], ",")
+		if len(ll) != 2 {
+			// fmt.Printf("invalid input: %v\n\n", ll)
+			continue
+		}
+		lat, err := strconv.ParseFloat(ll[0], 64)
+		if err != nil {
+			// fmt.Printf("invalid input: %v\n\n", ll[0])
+			continue
+		}
+		lon, err := strconv.ParseFloat(ll[1], 64)
+		if err != nil {
+			// fmt.Printf("invalid input: %v\n\n", ll[1])
+			continue
+		}
+		poi.Lat = lat
+		poi.Lon = lon
 		poi.Name = poiArr[1]
 		if poi.Id, err = strconv.Atoi(strings.TrimSpace(poiArr[2])); err != nil {
 			poi.Id = 0
