@@ -86,6 +86,7 @@ var toJsonCmd = &cobra.Command{
 		if err != nil {
 			fmt.Println(string(poisByte))
 		}
+		os.WriteFile("map.json", poisByte, 0644)
 		fmt.Printf("%+v\n", string(poisByte))
 	},
 }
@@ -135,5 +136,6 @@ func mapDataToJson(file string) (Pois, error) {
 		}
 		pois = append(pois, poi)
 	}
+	// fmt.Printf("len pois: %v\n", len(pois))
 	return Pois{pois}, nil
 }
