@@ -111,7 +111,7 @@ var toJsonCmd = &cobra.Command{
 			fmt.Println(string(poisByte))
 		}
 		os.WriteFile("map.json", poisByte, 0644)
-		fmt.Printf("%+v\n", string(poisByte))
+		// fmt.Printf("%+v\n", string(poisByte))
 	},
 }
 
@@ -123,34 +123,44 @@ func mapDataToJson(file string) (Pois, error) {
 	}
 	fStrArr := strings.Split(string(fByte), "\n")
 	for _, fStr := range fStrArr {
-		poiArr := strings.Split(fStr, " ")
-		if len(poiArr) < 3 {
-			// fmt.Printf("invalid input: %v\n\n", poiArr)
-			continue
-		}
-		poi, err := GetPointFromString(poiArr[0])
+		poi, err := ParseLine(fStr)
 		if err != nil {
 			continue
-		}
-		poi.Name = poiArr[1]
-		if poi.Id, err = strconv.Atoi(strings.TrimSpace(poiArr[2])); err != nil {
-			poi.Id = 0
-		}
-		if len(poiArr) >= 4 {
-			c, err := NewColor(strings.TrimSpace(poiArr[3]))
-			if err != nil {
-				c = Red
-				// return Pois{}, fmt.Errorf("invalid color: %s", poiArr[3])
-			}
-			poi.Color = c
-		}
-		if len(poiArr) >= 5 {
-			poi.Towards, _ = GetTowards(strings.TrimSpace(poiArr[4]))
 		}
 		pois = append(pois, poi)
 	}
 	// fmt.Printf("len pois: %v\n", len(pois))
 	return Pois{pois}, nil
+}
+
+func ParseLine(l string) (Point, error) {
+	poiArr := strings.Split(l, " ")
+	if len(poiArr) < 3 {
+		// fmt.Printf("invalid input: %v\n\n", poiArr)
+		return Point{}, errors.New("invalid input")
+	}
+	poi, err := GetPointFromString(poiArr[0])
+	if err != nil {
+		return Point{}, err
+	}
+	poi.Name = poiArr[1]
+	if poi.Id, err = strconv.Atoi(strings.TrimSpace(poiArr[2])); err != nil {
+		poi.Id = 0
+	}
+	if len(poiArr) >= 4 {
+		// fmt.Printf("poiArr[3]: %v\n", poiArr[3])
+		c, err := NewColor(strings.TrimSpace(poiArr[3]))
+		if err != nil {
+			c = Red
+			// return Pois{}, fmt.Errorf("invalid color: %s", poiArr[3])
+		}
+		poi.Color = c
+	}
+	if len(poiArr) >= 5 {
+		// fmt.Printf("poiArr[4]: %s\n", poiArr[4])
+		poi.Towards, _ = GetTowards(strings.TrimSpace(poiArr[4]))
+	}
+	return poi, nil
 }
 
 func GetTowards(poiss string) ([]DirectionPoint, error) {
@@ -182,6 +192,7 @@ func GetTowardStringAndAuthStatus(s string) (string, Role, Status, error) {
 	if s == "" {
 		return poiString, role, status, errors.New("invalid input: empty string")
 	}
+	poiString = s
 	sArr := strings.Split(s, "-")
 	poiString = sArr[0]
 	if len(sArr) >= 2 {
