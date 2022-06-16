@@ -1067,6 +1067,276 @@
             "color": "red",
             "lat": 22.536851,
             "lon": 114.061109,
+            "towards": [
+                {
+                    "lat": 22.536887,
+                    "lon": 114.061856,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福华路海田路口东侧",
+            "color": "red",
+            "lat": 22.534931,
+            "lon": 114.065628,
+            "towards": [
+                {
+                    "lat": 22.534867,
+                    "lon": 114.066455,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道彩田立交",
+            "color": "red",
+            "lat": 22.5289,
+            "lon": 114.068161,
+            "towards": [
+                {
+                    "lat": 22.5289,
+                    "lon": 114.068161,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道福滨人行天桥",
+            "color": "red",
+            "lat": 22.529104,
+            "lon": 114.077745,
+            "towards": [
+                {
+                    "lat": 22.528988,
+                    "lon": 114.069304,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南大道皇岗立交东侧",
+            "color": "red",
+            "lat": 22.540342,
+            "lon": 114.072582,
+            "towards": [
+                {
+                    "lat": 22.540227,
+                    "lon": 114.066678,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南中路中航人行天桥",
+            "color": "red",
+            "lat": 22.540398,
+            "lon": 114.083375,
+            "towards": [
+                {
+                    "lat": 22.540448,
+                    "lon": 114.085439,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红荔路福莲路人行天桥",
+            "color": "red",
+            "lat": 22.548472,
+            "lon": 114.070791,
+            "towards": [
+                {
+                    "lat": 22.548374,
+                    "lon": 114.072868,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红荔路皇岗路口",
+            "color": "red",
+            "lat": 22.54832,
+            "lon": 114.073016,
+            "towards": [
+                {
+                    "lat": 22.548423,
+                    "lon": 114.071394,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路莲花立交",
+            "color": "red",
+            "lat": 22.555798,
+            "lon": 114.06758,
+            "towards": [
+                {
+                    "lat": 22.55538,
+                    "lon": 114.070867,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路笔架山公园人行天桥",
+            "color": "red",
+            "lat": 22.555396,
+            "lon": 114.076246,
+            "towards": [
+                {
+                    "lat": 22.555368,
+                    "lon": 114.073754,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道皇岗路口",
+            "color": "red",
+            "lat": 22.566596,
+            "lon": 114.074146,
+            "towards": [
+                {
+                    "lat": 22.565978,
+                    "lon": 114.069297,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道彩田立交",
+            "color": "red",
+            "lat": 22.565561,
+            "lon": 114.067382,
+            "towards": [
+                {
+                    "lat": 22.566081,
+                    "lon": 114.070875,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅华路中康路路口",
+            "color": "red",
+            "lat": 22.564502,
+            "lon": 114.059275,
+            "towards": [
+                {
+                    "lat": 22.564502,
+                    "lon": 114.059275,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路中康路口",
+            "color": "red",
+            "lat": 22.568409,
+            "lon": 114.059174,
+            "towards": [
+                {
+                    "lat": 22.56843,
+                    "lon": 114.06011,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅华路梅村路口",
+            "color": "red",
+            "lat": 22.564576,
+            "lon": 114.053856,
+            "towards": [
+                {
+                    "lat": 22.56456,
+                    "lon": 114.054542,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅秀路梅华路口",
+            "color": "red",
+            "lat": 22.564823,
+            "lon": 114.048335,
+            "towards": [
+                {
+                    "lat": 22.564799,
+                    "lon": 114.048883,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅秀路口",
+            "color": "red",
+            "lat": 22.567767,
+            "lon": 114.047398,
+            "towards": [
+                {
+                    "lat": 22.567786,
+                    "lon": 114.048209,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅亭路口",
+            "color": "red",
+            "lat": 22.567069,
+            "lon": 114.045195,
+            "towards": [
+                {
+                    "lat": 22.567414,
+                    "lon": 114.045062,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅山街路口",
+            "color": "red",
+            "lat": 22.563815,
+            "lon": 114.038347,
             "towards": null
         },
         {
