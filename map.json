@@ -1337,6 +1337,276 @@
             "color": "red",
             "lat": 22.563815,
             "lon": 114.038347,
+            "towards": [
+                {
+                    "lat": 22.564686,
+                    "lon": 114.039331,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道新洲立交",
+            "color": "red",
+            "lat": 22.560116,
+            "lon": 114.041277,
+            "towards": [
+                {
+                    "lat": 22.561279,
+                    "lon": 114.047153,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "景田路景蜜村公园路段",
+            "color": "red",
+            "lat": 22.558345,
+            "lon": 114.038561,
+            "towards": [
+                {
+                    "lat": 22.557717,
+                    "lon": 114.039085,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "莲花路景田西路路口",
+            "color": "red",
+            "lat": 22.553379,
+            "lon": 114.043405,
+            "towards": [
+                {
+                    "lat": 22.553652,
+                    "lon": 114.046273,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福龙路横龙山隧道入口",
+            "color": "red",
+            "lat": 22.566356,
+            "lon": 114.016909,
+            "towards": [
+                {
+                    "lat": 22.567655,
+                    "lon": 114.016063,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福龙路横龙山隧道出口",
+            "color": "red",
+            "lat": 22.566168,
+            "lon": 114.016403,
+            "towards": [
+                {
+                    "lat": 22.563497,
+                    "lon": 114.018099,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道爱华南人行天桥",
+            "color": "red",
+            "lat": 22.534738,
+            "lon": 114.091175,
+            "towards": [
+                {
+                    "lat": 22.534769,
+                    "lon": 114.093036,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道红岭南人行天桥",
+            "color": "red",
+            "lat": 22.53561,
+            "lon": 114.10458,
+            "towards": [
+                {
+                    "lat": 22.53566,
+                    "lon": 114.107988,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "上步中路同德人行天桥",
+            "color": "red",
+            "lat": 22.546254,
+            "lon": 114.09627,
+            "towards": [
+                {
+                    "lat": 22.546994,
+                    "lon": 114.096249,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "上步中路园西天桥",
+            "color": "red",
+            "lat": 22.553172,
+            "lon": 114.096141,
+            "towards": [
+                {
+                    "lat": 22.552525,
+                    "lon": 114.096168,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路园岭人行天桥",
+            "color": "red",
+            "lat": 22.555799,
+            "lon": 114.099501,
+            "towards": [
+                {
+                    "lat": 22.555792,
+                    "lon": 114.100836,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗东路园岭人行天桥",
+            "color": "red",
+            "lat": 22.555927,
+            "lon": 114.107003,
+            "towards": [
+                {
+                    "lat": 22.55591,
+                    "lon": 114.109116,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南东路蔡屋围人行天桥",
+            "color": "red",
+            "lat": 22.541626,
+            "lon": 114.108835,
+            "towards": [
+                {
+                    "lat": 22.541899,
+                    "lon": 114.110643,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南东路地王大厦路段",
+            "color": "red",
+            "lat": 22.541735,
+            "lon": 114.109503,
+            "towards": [
+                {
+                    "lat": 22.542176,
+                    "lon": 114.112379,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新园路天虹商场路段",
+            "color": "red",
+            "lat": 22.548212,
+            "lon": 114.118737,
+            "towards": [
+                {
+                    "lat": 22.547689,
+                    "lon": 114.118632,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东门路晒步路口",
+            "color": "red",
+            "lat": 22.548559,
+            "lon": 114.122295,
+            "towards": [
+                {
+                    "lat": 22.547555,
+                    "lon": 114.121773,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗东路儿童公园人行天桥",
+            "color": "red",
+            "lat": 22.556304,
+            "lon": 114.123299,
+            "towards": [
+                {
+                    "lat": 22.556113,
+                    "lon": 114.120923,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沿河路北斗人行天桥",
+            "color": "red",
+            "lat": 22.5435,
+            "lon": 114.138385,
+            "towards": [
+                {
+                    "lat": 22.544466,
+                    "lon": 114.13962,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沿河北路罗芳立交北侧",
+            "color": "red",
+            "lat": 22.553441,
+            "lon": 114.144701,
             "towards": null
         },
         {
