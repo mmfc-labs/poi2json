@@ -1607,6 +1607,284 @@
             "color": "red",
             "lat": 22.553441,
             "lon": 114.144701,
+            "towards": [
+                {
+                    "lat": 22.551439,
+                    "lon": 114.144095,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路罗芳人行天桥",
+            "color": "red",
+            "lat": 22.552728,
+            "lon": 114.149686,
+            "towards": [
+                {
+                    "lat": 22.552728,
+                    "lon": 114.149686,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "延芳路罗沙边防通道桥",
+            "color": "red",
+            "lat": 22.554227,
+            "lon": 114.15513,
+            "towards": [
+                {
+                    "lat": 22.553678,
+                    "lon": 114.155473,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路仙湖立交",
+            "color": "red",
+            "lat": 22.558276,
+            "lon": 114.162457,
+            "towards": [
+                {
+                    "lat": 22.556563,
+                    "lon": 114.160143,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "爱国路水库新村天桥",
+            "color": "red",
+            "lat": 22.562192,
+            "lon": 114.139441,
+            "towards": [
+                {
+                    "lat": 22.561236,
+                    "lon": 114.138668,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沙湾路东湖路口北侧",
+            "color": "red",
+            "lat": 22.576199,
+            "lon": 114.145223,
+            "towards": [
+                {
+                    "lat": 22.57439,
+                    "lon": 114.144772,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "金稻田路罗湖看守所路段",
+            "color": "red",
+            "lat": 22.58869,
+            "lon": 114.126734,
+            "towards": [
+                {
+                    "lat": 22.588758,
+                    "lon": 114.127801,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "文锦北路草埔立交南",
+            "color": "red",
+            "lat": 22.58846,
+            "lon": 114.125053,
+            "towards": [
+                {
+                    "lat": 22.583256,
+                    "lon": 114.117217,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "西环路清水河检查站入口",
+            "color": "red",
+            "lat": 22.590305,
+            "lon": 114.108182,
+            "towards": [
+                {
+                    "lat": 22.590092,
+                    "lon": 114.108688,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "临平一路",
+            "color": "red",
+            "lat": 22.585696,
+            "lon": 114.106737,
+            "towards": [
+                {
+                    "lat": 22.585251,
+                    "lon": 114.107135,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红岗路清水河检查站",
+            "color": "red",
+            "lat": 22.578075,
+            "lon": 114.105795,
+            "towards": [
+                {
+                    "lat": 22.578898,
+                    "lon": 114.106071,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝洁路清水河检查站出",
+            "color": "red",
+            "lat": 22.578898,
+            "lon": 114.106071,
+            "towards": [
+                {
+                    "lat": 22.578898,
+                    "lon": 114.106071,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布龙路中海怡翠山庄天桥",
+            "color": "red",
+            "lat": 22.62256,
+            "lon": 114.10893,
+            "towards": [
+                {
+                    "lat": 22.620518,
+                    "lon": 114.112193,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布沙路中翠路口",
+            "color": "red",
+            "lat": 22.607294,
+            "lon": 114.139621,
+            "towards": [
+                {
+                    "lat": 22.606888,
+                    "lon": 114.141307,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东西干道大芬新村",
+            "color": "red",
+            "lat": 22.616365,
+            "lon": 114.134409,
+            "towards": [
+                {
+                    "lat": 22.61738,
+                    "lon": 114.135309,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布沙路沙湾检查站入",
+            "color": "red",
+            "lat": 22.606403,
+            "lon": 114.160973,
+            "towards": [
+                {
+                    "lat": 22.606219,
+                    "lon": 114.160003,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "丹沙路沙湾检查站入",
+            "color": "red",
+            "lat": 22.608737,
+            "lon": 114.163444,
+            "towards": [
+                {
+                    "lat": 22.607959,
+                    "lon": 114.16392,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沙荷路勤富路口",
+            "color": "red",
+            "lat": 22.622114,
+            "lon": 114.193156,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "勤富路牛始埔路东侧",
+            "color": "red",
+            "lat": 22.625171,
+            "lon": 114.18478,
+            "towards": [
+                {
+                    "lat": 22.625027,
+                    "lon": 114.185883,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "六和路沙荷路西侧",
+            "color": "red",
+            "lat": 22.628755,
+            "lon": 114.199275,
             "towards": null
         },
         {
