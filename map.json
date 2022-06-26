@@ -1885,6 +1885,306 @@
             "color": "red",
             "lat": 22.628755,
             "lon": 114.199275,
+            "towards": [
+                {
+                    "lat": 22.630072,
+                    "lon": 114.200729,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "富康路上围新村路段",
+            "color": "red",
+            "lat": 22.640033,
+            "lon": 114.211518,
+            "towards": [
+                {
+                    "lat": 22.639311,
+                    "lon": 114.21172,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "保康路惠盐公路西侧",
+            "color": "red",
+            "lat": 22.646177,
+            "lon": 114.213993,
+            "towards": [
+                {
+                    "lat": 22.646294,
+                    "lon": 114.214167,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "横岗松茂路松柏路口东侧",
+            "color": "red",
+            "lat": 22.649169,
+            "lon": 114.21317,
+            "towards": [
+                {
+                    "lat": 22.64934,
+                    "lon": 114.212218,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "横岗松茂路龙岗大道南侧",
+            "color": "red",
+            "lat": 22.649192,
+            "lon": 114.21319,
+            "towards": [
+                {
+                    "lat": 22.649192,
+                    "lon": 114.21319,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "海景二路金融路路口",
+            "color": "red",
+            "lat": 22.548362,
+            "lon": 114.23604,
+            "towards": [
+                {
+                    "lat": 22.548203,
+                    "lon": 114.236753,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路长岭人行天桥",
+            "color": "red",
+            "lat": 22.556385,
+            "lon": 114.183937,
+            "towards": [
+                {
+                    "lat": 22.554312,
+                    "lon": 114.186706,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "永安路梧桐山大道路口",
+            "color": "red",
+            "lat": 22.587289,
+            "lon": 114.243486,
+            "towards": [
+                {
+                    "lat": 22.587678,
+                    "lon": 114.244163,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "永安北三街东海道路口",
+            "color": "red",
+            "lat": 22.596115,
+            "lon": 114.247691,
+            "towards": [
+                {
+                    "lat": 22.594996,
+                    "lon": 114.248044,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北三道永安路口",
+            "color": "red",
+            "lat": 22.59557,
+            "lon": 114.251962,
+            "towards": [
+                {
+                    "lat": 22.596518,
+                    "lon": 114.251048,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北三道盐田路路口",
+            "color": "red",
+            "lat": 22.591967,
+            "lon": 114.258336,
+            "towards": [
+                {
+                    "lat": 22.591674,
+                    "lon": 114.259674,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东海道四街洪安二街",
+            "color": "red",
+            "lat": 22.586127,
+            "lon": 114.258964,
+            "towards": [
+                {
+                    "lat": 22.586729,
+                    "lon": 114.259382,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北山道盐田土幼检查站入口",
+            "color": "red",
+            "lat": 22.61807,
+            "lon": 114.229917,
+            "towards": [
+                {
+                    "lat": 22.617975,
+                    "lon": 114.230368,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "盐梅路海关盐田基地路段",
+            "color": "red",
+            "lat": 22.586503,
+            "lon": 114.283718,
+            "towards": [
+                {
+                    "lat": 22.586476,
+                    "lon": 114.285456,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "环梅路盐梅路路口",
+            "color": "red",
+            "lat": 22.590807,
+            "lon": 114.305371,
+            "towards": [
+                {
+                    "lat": 22.591585,
+                    "lon": 114.305753,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "环梅路环碧路路口",
+            "color": "red",
+            "lat": 22.595897,
+            "lon": 114.302529,
+            "towards": [
+                {
+                    "lat": 22.596075,
+                    "lon": 114.301757,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "闲云路东部华侨城路段",
+            "color": "red",
+            "lat": 22.603048,
+            "lon": 114.307668,
+            "towards": [
+                {
+                    "lat": 22.603815,
+                    "lon": 114.307574,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路环梅路口西侧500米",
+            "color": "red",
+            "lat": 22.600335,
+            "lon": 114.30826,
+            "towards": [
+                {
+                    "lat": 22.599907,
+                    "lon": 114.309306,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路环梅路(游艇会)",
+            "color": "red",
+            "lat": 22.598203,
+            "lon": 114.311403,
+            "towards": [
+                {
+                    "lat": 22.598653,
+                    "lon": 114.312956,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路小梅沙培训基地路段",
+            "color": "red",
+            "lat": 22.602356,
+            "lon": 114.333382,
+            "towards": [
+                {
+                    "lat": 22.602335,
+                    "lon": 114.332742,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路溪涌小学路段",
+            "color": "red",
+            "lat": 22.610388,
+            "lon": 114.362304,
             "towards": null
         },
         {
