@@ -2185,6 +2185,292 @@
             "color": "red",
             "lat": 22.610388,
             "lon": 114.362304,
+            "towards": [
+                {
+                    "lat": 22.610833,
+                    "lon": 114.363643,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路土洋高速入口前100米",
+            "color": "red",
+            "lat": 22.613123,
+            "lon": 114.400944,
+            "towards": [
+                {
+                    "lat": 22.613072,
+                    "lon": 114.399512,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "s30(盐坝高速)土洋收费站",
+            "color": "red",
+            "lat": 22.613148,
+            "lon": 114.397419,
+            "towards": [
+                {
+                    "lat": 22.613124,
+                    "lon": 114.3978,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路沙鱼涌路段",
+            "color": "red",
+            "lat": 22.611859,
+            "lon": 114.411158,
+            "towards": [
+                {
+                    "lat": 22.612028,
+                    "lon": 114.410647,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "葵鹏路金业大道路口状态未知",
+            "color": "red",
+            "lat": 22.616773,
+            "lon": 114.425123,
+            "towards": [
+                {
+                    "lat": 22.617003,
+                    "lon": 114.425221,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路盐坝跨线桥",
+            "color": "red",
+            "lat": 22.618355,
+            "lon": 114.423556,
+            "towards": [
+                {
+                    "lat": 22.6178,
+                    "lon": 114.423752,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路盐坝高速入口匝道",
+            "color": "red",
+            "lat": 22.622998,
+            "lon": 114.421928,
+            "towards": [
+                {
+                    "lat": 22.621771,
+                    "lon": 114.422244,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路葵涌高速路口",
+            "color": "red",
+            "lat": 22.622637,
+            "lon": 114.421959,
+            "towards": [
+                {
+                    "lat": 22.62265,
+                    "lon": 114.422951,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "金业大道知己集团路段",
+            "color": "red",
+            "lat": 22.624212,
+            "lon": 114.427593,
+            "towards": [
+                {
+                    "lat": 22.622696,
+                    "lon": 114.427617,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路丰树山路路口",
+            "color": "red",
+            "lat": 22.633753,
+            "lon": 114.417921,
+            "towards": [
+                {
+                    "lat": 22.633753,
+                    "lon": 114.418313,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路金岭路口北侧",
+            "color": "red",
+            "lat": 22.638886,
+            "lon": 114.41496,
+            "towards": [
+                {
+                    "lat": 22.637974,
+                    "lon": 114.415414,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵公路新葵坝隧道西侧",
+            "color": "red",
+            "lat": 22.634497,
+            "lon": 114.442982,
+            "towards": [
+                {
+                    "lat": 22.63493,
+                    "lon": 114.444557,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路迭福山隧道西侧",
+            "color": "red",
+            "lat": 22.608961,
+            "lon": 114.434378,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "葵鹏路咸头岭路段",
+            "color": "red",
+            "lat": 22.587758,
+            "lon": 114.442184,
+            "towards": [
+                {
+                    "lat": 22.587748,
+                    "lon": 114.442719,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "迭福路迭福立交东侧",
+            "color": "red",
+            "lat": 22.599483,
+            "lon": 114.462098,
+            "towards": [
+                {
+                    "lat": 22.599734,
+                    "lon": 114.4627,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "大鹏迎宾路鹏飞路口东侧",
+            "color": "red",
+            "lat": 22.599573,
+            "lon": 114.464189,
+            "towards": [
+                {
+                    "lat": 22.599242,
+                    "lon": 114.465119,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "鹏飞路核电基地大门",
+            "color": "red",
+            "lat": 22.593583,
+            "lon": 114.524932,
+            "towards": [
+                {
+                    "lat": 22.593465,
+                    "lon": 114.526407,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "葵南路水头海鲜街北侧",
+            "color": "red",
+            "lat": 22.565446,
+            "lon": 114.494801,
+            "towards": [
+                {
+                    "lat": 22.565014,
+                    "lon": 114.494893,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路水头路南侧",
+            "color": "red",
+            "lat": 22.555561,
+            "lon": 114.487458,
+            "towards": [
+                {
+                    "lat": 22.555201,
+                    "lon": 114.487176,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新东路新大路口东侧",
+            "color": "red",
+            "lat": 22.541145,
+            "lon": 114.512843,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "南西路新丰路路口",
+            "color": "red",
+            "lat": 22.527701,
+            "lon": 114.506523,
             "towards": null
         },
         {
