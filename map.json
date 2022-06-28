@@ -1,1 +1,3353 @@
-{"pois":[{"id":0,"name":"广东省深圳市宝安区大宝路47号(大宝路创业二路路口)","color":"red","lat":22.57759,"lon":113.914101,"towards":[{"lat":22.577267,"lon":113.914382,"auth":"","status":""},{"lat":22.578052,"lon":113.913598,"auth":"manager","status":"open"},{"lat":22.578189,"lon":113.914824,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区大宝路33号(广深高速入口闸道)","color":"red","lat":22.571779,"lon":113.919897,"towards":[{"lat":22.571816,"lon":113.920914,"auth":"","status":""}]},{"id":0,"name":"宝安区宝石路4-1号(中国石化佳运乐加油站西)","color":"red","lat":22.587346,"lon":113.92123,"towards":[{"lat":22.586486,"lon":113.922076,"auth":"","status":""},{"lat":22.587984,"lon":113.920525,"auth":"","status":""}]},{"id":3367088583799309163,"name":"107国道(广深公路)创业立交","color":"red","lat":22.564268,"lon":113.897331,"towards":[{"lat":22.560873,"lon":113.89453,"auth":"","status":""},{"lat":22.566645,"lon":113.901445,"auth":"","status":""}]},{"id":0,"name":"宝民一路裕安二路路口","color":"red","lat":22.567938,"lon":113.895748,"towards":[{"lat":22.567732,"lon":113.895465,"auth":"","status":""},{"lat":22.568742,"lon":113.89668,"auth":"","status":""}]},{"id":721050423299532949,"name":"宝民一路上川二路路口","color":"red","lat":22.571557,"lon":113.892056,"towards":[{"lat":22.570801,"lon":113.892903,"auth":"manager","status":"open"},{"lat":22.572146,"lon":113.892752,"auth":"user","status":"open"},{"lat":22.571332,"lon":113.891604,"auth":"manager","status":"unknown"}]},{"id":0,"name":"宝安区前进一路216号(深圳市文汇学校东北)","color":"red","lat":22.576684,"lon":113.896342,"towards":[{"lat":22.575937,"lon":113.897125,"auth":"manager","status":"open"},{"lat":22.578373,"lon":113.894545,"auth":"manager","status":"open"}]},{"id":0,"name":"前进二路与新安四路交叉口北","color":"red","lat":22.579982,"lon":113.893208,"towards":[{"lat":22.5813,"lon":113.895239,"auth":"manager","status":"close"},{"lat":22.578389,"lon":113.894593,"auth":"manager","status":"open"},{"lat":22.578605,"lon":113.891661,"auth":"manager","status":"close"},{"lat":22.581422,"lon":113.891763,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区流塘路与前进二路交叉口","color":"blue","lat":22.583859,"lon":113.889254,"towards":[{"lat":22.584733,"lon":113.890559,"auth":"manager","status":"close"},{"lat":22.582899,"lon":113.890143,"auth":"manager","status":"close"},{"lat":22.582478,"lon":113.887527,"auth":"manager","status":"close"},{"lat":22.5847,"lon":113.888353,"auth":"manager","status":"close"}]},{"id":0,"name":"建安二路流塘路路口","color":"red","lat":22.581439,"lon":113.886258,"towards":[{"lat":22.582462,"lon":113.887497,"auth":"manager","status":"unknown"},{"lat":22.580436,"lon":113.885026,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区广深路G107西乡段流塘天桥","color":"red","lat":22.579416,"lon":113.881812,"towards":[{"lat":22.577939,"lon":113.883274,"auth":"manager","status":"open"},{"lat":22.580591,"lon":113.880654,"auth":"manager","status":"open"}]},{"id":0,"name":"宝安区西乡大道锦花路口(御龙居东南)","color":"red","lat":22.590208,"lon":113.890855,"towards":[{"lat":22.590422,"lon":113.89564,"auth":"manager","status":"open"},{"lat":22.589844,"lon":113.887388,"auth":"manager","status":"open"}]},{"id":0,"name":"宝安大道与西乡大道交叉口","color":"red","lat":22.578218,"lon":113.867756,"towards":[{"lat":22.579865,"lon":113.870694,"auth":"manager","status":"open"},{"lat":22.575879,"lon":113.870501,"auth":"manager","status":"open"},{"lat":22.575013,"lon":113.86593,"auth":"manager","status":"open"},{"lat":22.580195,"lon":113.865722,"auth":"manager","status":"open"}]},{"id":0,"name":"西乡大道与兴业路交叉口","color":"red","lat":22.566465,"lon":113.857756,"towards":[{"lat":22.568441,"lon":113.859633,"auth":"user","status":"close"},{"lat":22.565142,"lon":113.860065,"auth":"user","status":"close"},{"lat":22.565417,"lon":113.856745,"auth":"manager","status":"open"}]},{"id":0,"name":"宝安区西乡大道沿江高速立交桥路段(佳鸿世界名车博览中心北)","color":"red","lat":22.563996,"lon":113.855125,"towards":[{"lat":22.565733,"lon":113.857073,"auth":"manager","status":"open"},{"lat":22.562007,"lon":113.85341,"auth":"manager","status":"open"}]},{"id":7399816797504441022,"name":"金湾大道西乡大道北侧","color":"red","lat":22.5611,"lon":113.85241,"towards":[{"lat":22.55945,"lon":113.854288,"auth":"manager","status":"open"},{"lat":22.563258,"lon":113.850953,"auth":"manager","status":"open"}]},{"id":0,"name":"铲岛路与绿海名居路交叉口(宝安第一外国语学校初中部)","color":"red","lat":22.562472,"lon":113.860379,"towards":[{"lat":22.561948,"lon":113.861079,"auth":"user","status":"open"},{"lat":22.561973,"lon":113.859921,"auth":"manager","status":"open"},{"lat":22.562814,"lon":113.859948,"auth":"user","status":"open"}]},{"id":0,"name":"金科路与罗田路交叉口北侧-新安润恒御园南","color":"red","lat":22.553065,"lon":113.873042,"towards":[{"lat":22.551372,"lon":113.87469,"auth":"manager","status":"open"},{"lat":22.553945,"lon":113.872069,"auth":"manager","status":"unknown"}]},{"id":0,"name":"新湖路与裕安一路交叉口(宝安体育场东)","color":"red","lat":22.557834,"lon":113.88389,"towards":[{"lat":22.559653,"lon":113.886279,"auth":"manager","status":"open"},{"lat":22.556022,"lon":113.885907,"auth":"manager","status":"unknown"},{"lat":22.556341,"lon":113.882168,"auth":"manager","status":"open"},{"lat":22.559934,"lon":113.881713,"auth":"manager","status":"open"}]},{"id":2789728267864386975,"name":"裕安一路与自由路交叉口","color":"blue","lat":22.565771,"lon":113.893027,"towards":[{"lat":22.559934,"lon":113.881713,"auth":"user","status":"close"},{"lat":22.565003,"lon":113.893785,"auth":"user","status":"close"},{"lat":22.564995,"lon":113.892282,"auth":"user","status":"close"},{"lat":22.56645,"lon":113.892278,"auth":"user","status":"close"}]},{"id":0,"name":"宝安大道甲岸路口(豪城馨庭居西南)","color":"red","lat":22.553456,"lon":113.897057,"towards":[{"lat":22.550998,"lon":113.899433,"auth":"manager","status":"open"},{"lat":22.555397,"lon":113.894787,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区前进一路龙井二路段(御景台东)","color":"red","lat":22.559421,"lon":113.913764,"towards":[{"lat":22.558271,"lon":113.914859,"auth":"user","status":"open"},{"lat":22.5609,"lon":113.912178,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区前进一路40号(阳光家庭)","color":"red","lat":22.558907,"lon":113.914341,"towards":[{"lat":22.557784,"lon":113.915324,"auth":"manager","status":"open"},{"lat":22.560175,"lon":113.912902,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区湖滨东路27号荔山检查站入口(新鸿强餐厅东)","color":"red","lat":22.556539,"lon":113.914219,"towards":[{"lat":22.556802,"lon":113.91459,"auth":"manager","status":"open"},{"lat":22.556204,"lon":113.913746,"auth":"user","status":"open"}]},{"id":0,"name":"广深公路入北环大道辅道南头检查站(路南山区OT天台篮球公园(智恒店)东)","color":"red","lat":22.550742,"lon":113.909687,"towards":[{"lat":22.550156,"lon":113.910955,"auth":"manager","status":"open"}]},{"id":0,"name":"北环大道入广深公路辅道南头检查站出口（南方腾星汽车销售服务有限公司）-","color":"red","lat":22.549471,"lon":113.91239,"towards":null},{"id":0,"name":"南山区深南北环立交桥","color":"red","lat":22.548162,"lon":113.912967,"towards":[{"lat":22.547066,"lon":113.911142,"auth":"manager","status":"open"}]},{"id":0,"name":"月亮湾大道深南立交","color":"red","lat":22.541956,"lon":113.909549,"towards":[{"lat":22.544555,"lon":113.9096,"auth":"manager","status":"open"}]},{"id":0,"name":"南山区月亮湾大道桂湾三路北侧(北大附中深圳南山分校)","color":"red","lat":22.536955,"lon":113.909462,"towards":[{"lat":22.533893,"lon":113.909604,"auth":"manager","status":"open"}]},{"id":0,"name":"月亮湾大道东滨路交叉口南侧","color":"red","lat":22.515778,"lon":113.90577,"towards":[{"lat":22.516972,"lon":113.907103,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区前海路1019号鼎太风化人行天桥(鼎太风华六期东南)","color":"red","lat":22.515776,"lon":113.910517,"towards":[{"lat":22.513545,"lon":113.908598,"auth":"manager","status":"open"},{"lat":22.519403,"lon":113.913721,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区前海路广深沿江高速桥路段","color":"red","lat":22.507888,"lon":113.902739,"towards":[{"lat":22.506669,"lon":113.900654,"auth":"manager","status":"open"},{"lat":22.51021,"lon":113.905239,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区南海大道学府人行天桥(荟芳园南","color":"red","lat":22.52724,"lon":113.929301,"towards":[{"lat":22.521378,"lon":113.929348,"auth":"manager","status":"open"},{"lat":22.529695,"lon":113.930474,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区深南大道南海立交（腾讯大厦西南）","color":"red","lat":22.539641,"lon":113.933705,"towards":[{"lat":22.53957,"lon":113.939411,"auth":"manager","status":"open"},{"lat":22.539672,"lon":113.931856,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区沙河西路深南大道立交","color":"red","lat":22.540328,"lon":113.959057,"towards":[{"lat":22.540321,"lon":113.956056,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市南山区沙河西路高新南九道交叉","color":"red","lat":22.529884,"lon":113.954853,"towards":[{"lat":22.528326,"lon":113.954737,"auth":"user","status":"open"},{"lat":22.531342,"lon":113.954919,"auth":"manager","status":"open"}]},{"id":0,"name":"南山区滨海大道沙河西路出口(东向西左转进沙河西路)","color":"red","lat":22.520853,"lon":113.953935,"towards":[{"lat":22.531342,"lon":113.954919,"auth":"manager","status":"open"}]},{"id":0,"name":"南山区滨海沙河东立交桥西南","color":"red","lat":22.520011,"lon":113.963335,"towards":[{"lat":22.519779,"lon":113.970679,"auth":"manager","status":"open"},{"lat":22.520523,"lon":113.958221,"auth":"manager","status":"open"}]},{"id":0,"name":"南山区滨海大道侨城东立交","color":"red","lat":22.524458,"lon":113.999019,"towards":[{"lat":22.525682,"lon":114.001011,"auth":"manager","status":"unknown"}]},{"id":0,"name":"滨河大道广深高速桥","color":"red","lat":22.52805,"lon":114.019676,"towards":[{"lat":22.528577,"lon":114.022083,"auth":"manager","status":"open"}]},{"id":0,"name":"深南大道广深高速桥","color":"red","lat":22.534622,"lon":114.016712,"towards":[{"lat":22.535124,"lon":114.019479,"auth":"manager","status":"unknown"}]},{"id":0,"name":"滨河大道香蜜湖立交","color":"red","lat":22.528476,"lon":114.030652,"towards":[{"lat":22.527423,"lon":114.035686,"auth":"manager","status":"unknown"}]},{"id":0,"name":"红荔路香蜜湖天桥","color":"red","lat":22.543146,"lon":114.032009,"towards":[{"lat":22.543445,"lon":114.03308,"auth":"manager","status":"unknown"}]},{"id":0,"name":"香蜜湖路市委党校路段","color":"red","lat":22.547385,"lon":114.024168,"towards":[{"lat":22.546153,"lon":114.02501,"auth":"manager","status":"unknown"}]},{"id":0,"name":"北环大道侨香村人行天桥","color":"red","lat":22.554186,"lon":114.011364,"towards":[{"lat":22.555363,"lon":114.014024,"auth":"manager","status":"unknown"}]},{"id":0,"name":"芙蓉路新洲路口东侧","color":"red","lat":22.512303,"lon":114.045284,"towards":[{"lat":22.511995,"lon":114.046191,"auth":"manager","status":"unknown"}]},{"id":0,"name":"新洲路新洲南天桥","color":"red","lat":22.515531,"lon":114.045082,"towards":[{"lat":22.514463,"lon":114.044422,"auth":"manager","status":"unknown"}]},{"id":0,"name":"福强路福强人行天桥","color":"red","lat":22.516325,"lon":114.051299,"towards":[{"lat":22.515838,"lon":114.05298,"auth":"manager","status":"unknown"}]},{"id":0,"name":"新洲路福新立交","color":"red","lat":22.532355,"lon":114.04962,"towards":[{"lat":22.530255,"lon":114.049655,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深南大道新洲立交","color":"red","lat":22.539665,"lon":114.049458,"towards":[{"lat":22.539696,"lon":114.051128,"auth":"manager","status":"unknown"}]},{"id":0,"name":"民田路福华一路口北侧","color":"red","lat":22.536806,"lon":114.052946,"towards":[{"lat":22.537809,"lon":114.052923,"auth":"user","status":"open"}]},{"id":0,"name":"益田路福华一路口南侧","color":"red","lat":22.536298,"lon":114.056363,"towards":[{"lat":22.537296,"lon":114.056306,"auth":"manager","status":"open"}]},{"id":0,"name":"益田路福华一路口北侧","color":"red","lat":22.538061,"lon":114.056298,"towards":[{"lat":22.536787,"lon":114.056379,"auth":"manager","status":"open"}]},{"id":0,"name":"福华三路会展中心路段","color":"red","lat":22.532688,"lon":114.06113,"towards":[{"lat":22.532752,"lon":114.062803,"auth":"manager","status":"unknown"}]},{"id":0,"name":"福华一路中心五路口东侧","color":"red","lat":22.536851,"lon":114.061109,"towards":[{"lat":22.536887,"lon":114.061856,"auth":"manager","status":"unknown"}]},{"id":0,"name":"福华路海田路口东侧","color":"red","lat":22.534931,"lon":114.065628,"towards":[{"lat":22.534867,"lon":114.066455,"auth":"manager","status":"unknown"}]},{"id":0,"name":"滨河大道彩田立交","color":"red","lat":22.5289,"lon":114.068161,"towards":[{"lat":22.5289,"lon":114.068161,"auth":"manager","status":"open"}]},{"id":0,"name":"滨河大道福滨人行天桥","color":"red","lat":22.529104,"lon":114.077745,"towards":[{"lat":22.528988,"lon":114.069304,"auth":"manager","status":"open"}]},{"id":0,"name":"深南大道皇岗立交东侧","color":"red","lat":22.540342,"lon":114.072582,"towards":[{"lat":22.540227,"lon":114.066678,"auth":"manager","status":"open"}]},{"id":0,"name":"深南中路中航人行天桥","color":"red","lat":22.540398,"lon":114.083375,"towards":[{"lat":22.540448,"lon":114.085439,"auth":"manager","status":"unknown"}]},{"id":0,"name":"红荔路福莲路人行天桥","color":"red","lat":22.548472,"lon":114.070791,"towards":[{"lat":22.548374,"lon":114.072868,"auth":"manager","status":"open"}]},{"id":0,"name":"红荔路皇岗路口","color":"red","lat":22.54832,"lon":114.073016,"towards":[{"lat":22.548423,"lon":114.071394,"auth":"manager","status":"open"}]},{"id":0,"name":"笋岗西路莲花立交","color":"red","lat":22.555798,"lon":114.06758,"towards":[{"lat":22.55538,"lon":114.070867,"auth":"manager","status":"open"}]},{"id":0,"name":"笋岗西路笔架山公园人行天桥","color":"red","lat":22.555396,"lon":114.076246,"towards":[{"lat":22.555368,"lon":114.073754,"auth":"manager","status":"open"}]},{"id":0,"name":"北环大道皇岗路口","color":"red","lat":22.566596,"lon":114.074146,"towards":[{"lat":22.565978,"lon":114.069297,"auth":"manager","status":"open"}]},{"id":0,"name":"北环大道彩田立交","color":"red","lat":22.565561,"lon":114.067382,"towards":[{"lat":22.566081,"lon":114.070875,"auth":"manager","status":"open"}]},{"id":0,"name":"梅华路中康路路口","color":"red","lat":22.564502,"lon":114.059275,"towards":[{"lat":22.564502,"lon":114.059275,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅林路中康路口","color":"red","lat":22.568409,"lon":114.059174,"towards":[{"lat":22.56843,"lon":114.06011,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅华路梅村路口","color":"red","lat":22.564576,"lon":114.053856,"towards":[{"lat":22.56456,"lon":114.054542,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅秀路梅华路口","color":"red","lat":22.564823,"lon":114.048335,"towards":[{"lat":22.564799,"lon":114.048883,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅林路梅秀路口","color":"red","lat":22.567767,"lon":114.047398,"towards":[{"lat":22.567786,"lon":114.048209,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅林路梅亭路口","color":"red","lat":22.567069,"lon":114.045195,"towards":[{"lat":22.567414,"lon":114.045062,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅林路梅山街路口","color":"red","lat":22.563815,"lon":114.038347,"towards":[{"lat":22.564686,"lon":114.039331,"auth":"manager","status":"unknown"}]},{"id":0,"name":"北环大道新洲立交","color":"red","lat":22.560116,"lon":114.041277,"towards":[{"lat":22.561279,"lon":114.047153,"auth":"manager","status":"unknown"}]},{"id":0,"name":"景田路景蜜村公园路段","color":"red","lat":22.558345,"lon":114.038561,"towards":[{"lat":22.557717,"lon":114.039085,"auth":"manager","status":"unknown"}]},{"id":0,"name":"莲花路景田西路路口","color":"red","lat":22.553379,"lon":114.043405,"towards":[{"lat":22.553652,"lon":114.046273,"auth":"manager","status":"unknown"}]},{"id":0,"name":"福龙路横龙山隧道入口","color":"red","lat":22.566356,"lon":114.016909,"towards":[{"lat":22.567655,"lon":114.016063,"auth":"manager","status":"open"}]},{"id":0,"name":"福龙路横龙山隧道出口","color":"red","lat":22.566168,"lon":114.016403,"towards":[{"lat":22.563497,"lon":114.018099,"auth":"manager","status":"open"}]},{"id":0,"name":"滨河大道爱华南人行天桥","color":"red","lat":22.534738,"lon":114.091175,"towards":[{"lat":22.534769,"lon":114.093036,"auth":"manager","status":"unknown"}]},{"id":0,"name":"滨河大道红岭南人行天桥","color":"red","lat":22.53561,"lon":114.10458,"towards":[{"lat":22.53566,"lon":114.107988,"auth":"manager","status":"open"}]},{"id":0,"name":"上步中路同德人行天桥","color":"red","lat":22.546254,"lon":114.09627,"towards":[{"lat":22.546994,"lon":114.096249,"auth":"manager","status":"open"}]},{"id":0,"name":"上步中路园西天桥","color":"red","lat":22.553172,"lon":114.096141,"towards":[{"lat":22.552525,"lon":114.096168,"auth":"manager","status":"open"}]},{"id":0,"name":"笋岗西路园岭人行天桥","color":"red","lat":22.555799,"lon":114.099501,"towards":[{"lat":22.555792,"lon":114.100836,"auth":"manager","status":"open"}]},{"id":0,"name":"笋岗东路园岭人行天桥","color":"red","lat":22.555927,"lon":114.107003,"towards":[{"lat":22.55591,"lon":114.109116,"auth":"manager","status":"open"}]},{"id":0,"name":"深南东路蔡屋围人行天桥","color":"red","lat":22.541626,"lon":114.108835,"towards":[{"lat":22.541899,"lon":114.110643,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深南东路地王大厦路段","color":"red","lat":22.541735,"lon":114.109503,"towards":[{"lat":22.542176,"lon":114.112379,"auth":"manager","status":"unknown"}]},{"id":0,"name":"新园路天虹商场路段","color":"red","lat":22.548212,"lon":114.118737,"towards":[{"lat":22.547689,"lon":114.118632,"auth":"manager","status":"open"}]},{"id":0,"name":"东门路晒步路口","color":"red","lat":22.548559,"lon":114.122295,"towards":[{"lat":22.547555,"lon":114.121773,"auth":"user","status":"open"}]},{"id":0,"name":"笋岗东路儿童公园人行天桥","color":"red","lat":22.556304,"lon":114.123299,"towards":[{"lat":22.556113,"lon":114.120923,"auth":"manager","status":"open"}]},{"id":0,"name":"沿河路北斗人行天桥","color":"red","lat":22.5435,"lon":114.138385,"towards":[{"lat":22.544466,"lon":114.13962,"auth":"manager","status":"unknown"}]},{"id":0,"name":"沿河北路罗芳立交北侧","color":"red","lat":22.553441,"lon":114.144701,"towards":[{"lat":22.551439,"lon":114.144095,"auth":"manager","status":"open"}]},{"id":0,"name":"罗沙路罗芳人行天桥","color":"red","lat":22.552728,"lon":114.149686,"towards":[{"lat":22.552728,"lon":114.149686,"auth":"manager","status":"unknown"}]},{"id":0,"name":"延芳路罗沙边防通道桥","color":"red","lat":22.554227,"lon":114.15513,"towards":[{"lat":22.553678,"lon":114.155473,"auth":"manager","status":"unknown"}]},{"id":0,"name":"罗沙路仙湖立交","color":"red","lat":22.558276,"lon":114.162457,"towards":[{"lat":22.556563,"lon":114.160143,"auth":"manager","status":"open"}]},{"id":0,"name":"爱国路水库新村天桥","color":"red","lat":22.562192,"lon":114.139441,"towards":[{"lat":22.561236,"lon":114.138668,"auth":"manager","status":"unknown"}]},{"id":0,"name":"沙湾路东湖路口北侧","color":"red","lat":22.576199,"lon":114.145223,"towards":[{"lat":22.57439,"lon":114.144772,"auth":"manager","status":"unknown"}]},{"id":0,"name":"金稻田路罗湖看守所路段","color":"red","lat":22.58869,"lon":114.126734,"towards":[{"lat":22.588758,"lon":114.127801,"auth":"manager","status":"unknown"}]},{"id":0,"name":"文锦北路草埔立交南","color":"red","lat":22.58846,"lon":114.125053,"towards":[{"lat":22.583256,"lon":114.117217,"auth":"manager","status":"open"}]},{"id":0,"name":"西环路清水河检查站入口","color":"red","lat":22.590305,"lon":114.108182,"towards":[{"lat":22.590092,"lon":114.108688,"auth":"manager","status":"unknown"}]},{"id":0,"name":"临平一路","color":"red","lat":22.585696,"lon":114.106737,"towards":[{"lat":22.585251,"lon":114.107135,"auth":"manager","status":"unknown"}]},{"id":0,"name":"红岗路清水河检查站","color":"red","lat":22.578075,"lon":114.105795,"towards":[{"lat":22.578898,"lon":114.106071,"auth":"manager","status":"open"}]},{"id":0,"name":"宝洁路清水河检查站出","color":"red","lat":22.578898,"lon":114.106071,"towards":[{"lat":22.578898,"lon":114.106071,"auth":"manager","status":"open"}]},{"id":0,"name":"布龙路中海怡翠山庄天桥","color":"red","lat":22.62256,"lon":114.10893,"towards":[{"lat":22.620518,"lon":114.112193,"auth":"manager","status":"unknown"}]},{"id":0,"name":"布沙路中翠路口","color":"red","lat":22.607294,"lon":114.139621,"towards":[{"lat":22.606888,"lon":114.141307,"auth":"manager","status":"unknown"}]},{"id":0,"name":"东西干道大芬新村","color":"red","lat":22.616365,"lon":114.134409,"towards":[{"lat":22.61738,"lon":114.135309,"auth":"manager","status":"unknown"}]},{"id":0,"name":"布沙路沙湾检查站入","color":"red","lat":22.606403,"lon":114.160973,"towards":[{"lat":22.606219,"lon":114.160003,"auth":"manager","status":"open"}]},{"id":0,"name":"丹沙路沙湾检查站入","color":"red","lat":22.608737,"lon":114.163444,"towards":[{"lat":22.607959,"lon":114.16392,"auth":"manager","status":"open"}]},{"id":0,"name":"沙荷路勤富路口","color":"red","lat":22.622114,"lon":114.193156,"towards":null},{"id":0,"name":"勤富路牛始埔路东侧","color":"red","lat":22.625171,"lon":114.18478,"towards":[{"lat":22.625027,"lon":114.185883,"auth":"manager","status":"unknown"}]},{"id":0,"name":"六和路沙荷路西侧","color":"red","lat":22.628755,"lon":114.199275,"towards":[{"lat":22.630072,"lon":114.200729,"auth":"user","status":"open"}]},{"id":0,"name":"富康路上围新村路段","color":"red","lat":22.640033,"lon":114.211518,"towards":[{"lat":22.639311,"lon":114.21172,"auth":"manager","status":"unknown"}]},{"id":0,"name":"保康路惠盐公路西侧","color":"red","lat":22.646177,"lon":114.213993,"towards":[{"lat":22.646294,"lon":114.214167,"auth":"manager","status":"unknown"}]},{"id":0,"name":"横岗松茂路松柏路口东侧","color":"red","lat":22.649169,"lon":114.21317,"towards":[{"lat":22.64934,"lon":114.212218,"auth":"manager","status":"unknown"}]},{"id":0,"name":"横岗松茂路龙岗大道南侧","color":"red","lat":22.649192,"lon":114.21319,"towards":[{"lat":22.649192,"lon":114.21319,"auth":"manager","status":"unknown"}]},{"id":0,"name":"海景二路金融路路口","color":"red","lat":22.548362,"lon":114.23604,"towards":[{"lat":22.548203,"lon":114.236753,"auth":"manager","status":"unknown"}]},{"id":0,"name":"罗沙路长岭人行天桥","color":"red","lat":22.556385,"lon":114.183937,"towards":[{"lat":22.554312,"lon":114.186706,"auth":"manager","status":"unknown"}]},{"id":0,"name":"永安路梧桐山大道路口","color":"red","lat":22.587289,"lon":114.243486,"towards":[{"lat":22.587678,"lon":114.244163,"auth":"manager","status":"unknown"}]},{"id":0,"name":"永安北三街东海道路口","color":"red","lat":22.596115,"lon":114.247691,"towards":[{"lat":22.594996,"lon":114.248044,"auth":"manager","status":"open"}]},{"id":0,"name":"北三道永安路口","color":"red","lat":22.59557,"lon":114.251962,"towards":[{"lat":22.596518,"lon":114.251048,"auth":"manager","status":"open"}]},{"id":0,"name":"北三道盐田路路口","color":"red","lat":22.591967,"lon":114.258336,"towards":[{"lat":22.591674,"lon":114.259674,"auth":"manager","status":"unknown"}]},{"id":0,"name":"东海道四街洪安二街","color":"red","lat":22.586127,"lon":114.258964,"towards":[{"lat":22.586729,"lon":114.259382,"auth":"manager","status":"unknown"}]},{"id":0,"name":"北山道盐田土幼检查站入口","color":"red","lat":22.61807,"lon":114.229917,"towards":[{"lat":22.617975,"lon":114.230368,"auth":"manager","status":"open"}]},{"id":0,"name":"盐梅路海关盐田基地路段","color":"red","lat":22.586503,"lon":114.283718,"towards":[{"lat":22.586476,"lon":114.285456,"auth":"manager","status":"unknown"}]},{"id":0,"name":"环梅路盐梅路路口","color":"red","lat":22.590807,"lon":114.305371,"towards":[{"lat":22.591585,"lon":114.305753,"auth":"user","status":"open"}]},{"id":0,"name":"环梅路环碧路路口","color":"red","lat":22.595897,"lon":114.302529,"towards":[{"lat":22.596075,"lon":114.301757,"auth":"manager","status":"unknown"}]},{"id":0,"name":"闲云路东部华侨城路段","color":"red","lat":22.603048,"lon":114.307668,"towards":[{"lat":22.603815,"lon":114.307574,"auth":"manager","status":"open"}]},{"id":0,"name":"梅盐路环梅路口西侧500米","color":"red","lat":22.600335,"lon":114.30826,"towards":[{"lat":22.599907,"lon":114.309306,"auth":"manager","status":"unknown"}]},{"id":0,"name":"梅盐路环梅路(游艇会)","color":"red","lat":22.598203,"lon":114.311403,"towards":[{"lat":22.598653,"lon":114.312956,"auth":"manager","status":"open"}]},{"id":0,"name":"梅盐路小梅沙培训基地路段","color":"red","lat":22.602356,"lon":114.333382,"towards":[{"lat":22.602335,"lon":114.332742,"auth":"manager","status":"open"}]},{"id":0,"name":"深葵路溪涌小学路段","color":"red","lat":22.610388,"lon":114.362304,"towards":[{"lat":22.610833,"lon":114.363643,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深葵路土洋高速入口前100米","color":"red","lat":22.613123,"lon":114.400944,"towards":[{"lat":22.613072,"lon":114.399512,"auth":"manager","status":"open"}]},{"id":0,"name":"s30(盐坝高速)土洋收费站","color":"red","lat":22.613148,"lon":114.397419,"towards":[{"lat":22.613124,"lon":114.3978,"auth":"user","status":"open"}]},{"id":0,"name":"深葵路沙鱼涌路段","color":"red","lat":22.611859,"lon":114.411158,"towards":[{"lat":22.612028,"lon":114.410647,"auth":"manager","status":"unknown"}]},{"id":0,"name":"葵鹏路金业大道路口状态未知","color":"red","lat":22.616773,"lon":114.425123,"towards":[{"lat":22.617003,"lon":114.425221,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪西路盐坝跨线桥","color":"red","lat":22.618355,"lon":114.423556,"towards":[{"lat":22.6178,"lon":114.423752,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪葵路盐坝高速入口匝道","color":"red","lat":22.622998,"lon":114.421928,"towards":[{"lat":22.621771,"lon":114.422244,"auth":"manager","status":"open"}]},{"id":0,"name":"坪葵路葵涌高速路口","color":"red","lat":22.622637,"lon":114.421959,"towards":[{"lat":22.62265,"lon":114.422951,"auth":"manager","status":"unknown"}]},{"id":0,"name":"金业大道知己集团路段","color":"red","lat":22.624212,"lon":114.427593,"towards":[{"lat":22.622696,"lon":114.427617,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪葵路丰树山路路口","color":"red","lat":22.633753,"lon":114.417921,"towards":[{"lat":22.633753,"lon":114.418313,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪葵路金岭路口北侧","color":"red","lat":22.638886,"lon":114.41496,"towards":[{"lat":22.637974,"lon":114.415414,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪葵公路新葵坝隧道西侧","color":"red","lat":22.634497,"lon":114.442982,"towards":[{"lat":22.63493,"lon":114.444557,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪西路迭福山隧道西侧","color":"red","lat":22.608961,"lon":114.434378,"towards":null},{"id":0,"name":"葵鹏路咸头岭路段","color":"red","lat":22.587758,"lon":114.442184,"towards":[{"lat":22.587748,"lon":114.442719,"auth":"manager","status":"unknown"}]},{"id":0,"name":"迭福路迭福立交东侧","color":"red","lat":22.599483,"lon":114.462098,"towards":[{"lat":22.599734,"lon":114.4627,"auth":"manager","status":"unknown"}]},{"id":0,"name":"大鹏迎宾路鹏飞路口东侧","color":"red","lat":22.599573,"lon":114.464189,"towards":[{"lat":22.599242,"lon":114.465119,"auth":"manager","status":"unknown"}]},{"id":0,"name":"鹏飞路核电基地大门","color":"red","lat":22.593583,"lon":114.524932,"towards":[{"lat":22.593465,"lon":114.526407,"auth":"manager","status":"unknown"}]},{"id":0,"name":"葵南路水头海鲜街北侧","color":"red","lat":22.565446,"lon":114.494801,"towards":[{"lat":22.565014,"lon":114.494893,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪西路水头路南侧","color":"red","lat":22.555561,"lon":114.487458,"towards":[{"lat":22.555201,"lon":114.487176,"auth":"manager","status":"unknown"}]},{"id":0,"name":"新东路新大路口东侧","color":"red","lat":22.541145,"lon":114.512843,"towards":[{"lat":22.541967,"lon":114.516001,"auth":"manager","status":"unknown"}]},{"id":0,"name":"南西路新丰路路口","color":"red","lat":22.527701,"lon":114.506523,"towards":[{"lat":22.527419,"lon":114.50684,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坑梓金田路(市界)","color":"red","lat":22.697962,"lon":114.43213,"towards":[{"lat":22.698645,"lon":114.432375,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪山大道沙田收费站","color":"red","lat":22.762799,"lon":114.420725,"towards":[{"lat":22.762566,"lon":114.419699,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深汕公路沙田收费站","color":"red","lat":22.762419,"lon":114.418997,"towards":[{"lat":22.763454,"lon":114.423719,"auth":"manager","status":"unknown"}]},{"id":0,"name":"丹梓东路锦绣北路口东侧","color":"red","lat":22.753395,"lon":114.417948,"towards":[{"lat":22.753447,"lon":114.421006,"auth":"manager","status":"unknown"}]},{"id":0,"name":"锦绣东路荣田路口东侧","color":"red","lat":22.745333,"lon":114.412428,"towards":[{"lat":22.745537,"lon":114.415282,"auth":"manager","status":"unknown"}]},{"id":0,"name":"白石路坪山大道北侧","color":"red","lat":22.75088,"lon":114.377475,"towards":[{"lat":22.751538,"lon":114.377447,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坑梓白石路(市界)","color":"red","lat":22.760978,"lon":114.375647,"towards":[{"lat":22.759835,"lon":114.375869,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深汕公路丹梓西路南侧","color":"red","lat":22.717356,"lon":114.355937,"towards":[{"lat":22.71566,"lon":114.35495,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪山大道丹梓西路南侧","color":"red","lat":22.716194,"lon":114.355339,"towards":[{"lat":22.71578,"lon":114.355038,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪山丹梓西路新和四路段","color":"red","lat":22.709125,"lon":114.342909,"towards":[{"lat":22.70985,"lon":114.344945,"auth":"manager","status":"unknown"}]},{"id":0,"name":"东纵路瑞景路路口","color":"red","lat":22.686946,"lon":114.370478,"towards":[{"lat":22.682009,"lon":114.373248,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深汕公路坪山文化广场路段","color":"red","lat":22.694933,"lon":114.337842,"towards":[{"lat":22.693314,"lon":114.340226,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪山大道锦龙大道路口东侧","color":"red","lat":22.677963,"lon":114.32801,"towards":[{"lat":22.678542,"lon":114.329499,"auth":"manager","status":"unknown"}]},{"id":0,"name":"锦龙大道宝山路口北侧","color":"red","lat":22.687613,"lon":114.324445,"towards":[{"lat":22.686683,"lon":114.324581,"auth":"manager","status":"open"}]},{"id":0,"name":"锦龙大道宝龙大道路口南侧北行","color":"red","lat":22.690564,"lon":114.319637,"towards":[{"lat":22.689424,"lon":114.321291,"auth":"manager","status":"unknown"}]},{"id":0,"name":"锦龙大道清风大道路口","color":"red","lat":22.691156,"lon":114.318652,"towards":[{"lat":22.69155,"lon":114.314538,"auth":"manager","status":"unknown"}]},{"id":0,"name":"锦龙大道宝龙大道路口南侧","color":"red","lat":22.693221,"lon":114.315422,"towards":[{"lat":22.692328,"lon":114.316793,"auth":"manager","status":"open"}]},{"id":0,"name":"坪山站前路坪兰路段","color":"red","lat":22.706475,"lon":114.329974,"towards":[{"lat":22.706615,"lon":114.331852,"auth":"manager","status":"unknown"}]},{"id":0,"name":"坪山丹梓西路高铁站路段天桥","color":"red","lat":22.708897,"lon":114.3264,"towards":[{"lat":22.709343,"lon":114.328547,"auth":"manager","status":"unknown"}]},{"id":0,"name":"深汕公路宝龙大道路口东侧","color":"red","lat":22.703278,"lon":114.321953,"towards":null},{"id":0,"name":"南山区北环沙河东立交桥","color":"red","lat":22.553714,"lon":113.966663,"towards":[{"lat":22.554373,"lon":113.970304,"auth":"manager","status":"open"},{"lat":22.553369,"lon":113.958505,"auth":"manager","status":"open"}]},{"id":0,"name":"南山区北环沙河西立交","color":"red","lat":22.553362,"lon":113.957812,"towards":[{"lat":22.553386,"lon":113.962985,"auth":"manager","status":"open"},{"lat":22.552534,"lon":113.951222,"auth":"manager","status":"open"}]},{"id":0,"name":"同安路荔山检查站出口","color":"red","lat":22.557182,"lon":113.920409,"towards":[{"lat":22.556886,"lon":113.920665,"auth":"user","status":"open"},{"lat":22.557549,"lon":113.919863,"auth":"manager","status":"open"}]},{"id":0,"name":"宝石路南光高速桥南300米","color":"red","lat":22.612899,"lon":113.925797,"towards":[{"lat":22.610342,"lon":113.925718,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区牛成村路路口(陈村花场东)","color":"red","lat":22.614348,"lon":113.925939,"towards":[{"lat":22.612899,"lon":113.925797,"auth":"manager","status":"open"},{"lat":22.617272,"lon":113.925993,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区宝石路南光高速桥北侧","color":"red","lat":22.61709,"lon":113.925913,"towards":[{"lat":22.614348,"lon":113.925939,"auth":"manager","status":"open"},{"lat":22.619574,"lon":113.925918,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区南光高速公路宝石收费站北侧","color":"red","lat":22.618113,"lon":113.923267,"towards":null},{"id":0,"name":"松白路白芒检查站入口","color":"red","lat":22.6307,"lon":113.935143,"towards":[{"lat":22.629012,"lon":113.936604,"auth":"manager","status":"open"}]},{"id":0,"name":"宝石路松柏路路口","color":"red","lat":22.640975,"lon":113.926323,"towards":[{"lat":22.641743,"lon":113.926559,"auth":"manager","status":"unknown"},{"lat":22.639265,"lon":113.926264,"auth":"manager","status":"unknown"},{"lat":22.641857,"lon":113.925192,"auth":"manager","status":"open"}]},{"id":0,"name":"松柏路塘头一号路路口","color":"red","lat":22.640049,"lon":113.925105,"towards":[{"lat":22.639332,"lon":113.925482,"auth":"manager","status":"open"},{"lat":22.639636,"lon":113.92426,"auth":"manager","status":"open"},{"lat":22.640945,"lon":113.924812,"auth":"user","status":"open"}]},{"id":0,"name":"宝安区宝源路松茂柏景湾路口(西南方一个，北方一个)","color":"red","lat":22.586659,"lon":113.840625,"towards":[{"lat":22.585875,"lon":113.841804,"auth":"manager","status":"open"},{"lat":22.587434,"lon":113.839524,"auth":"manager","status":"open"}]},{"id":0,"name":"广东省深圳市宝安区金湾大道西湾公园北侧","color":"red","lat":22.591614,"lon":113.835298,"towards":[{"lat":22.589727,"lon":113.835845,"auth":"manager","status":"open"},{"lat":22.593963,"lon":113.834876,"auth":"manager","status":"open"}]},{"id":3817868705845181171,"name":"宝安大道与固戍一路交叉口","color":"red","lat":22.596883,"lon":113.849217,"towards":[{"lat":22.594992,"lon":113.849976,"auth":"manager","status":"open"},{"lat":22.598804,"lon":113.848145,"auth":"user","status":"open"}]},{"id":0,"name":"航空路学子路路口","color":"red","lat":22.610817,"lon":113.852259,"towards":[{"lat":22.611054,"lon":113.852833,"auth":"manager","status":"unknown"}]},{"id":0,"name":"宝安区宝安大道航城大道路口","color":"red","lat":22.604146,"lon":113.845458,"towards":[{"lat":22.604853,"lon":113.84722,"auth":"manager","status":"unknown"}]},{"id":0,"name":"","color":"red","lat":22.604417,"lon":113.83682,"towards":null},{"id":0,"name":"107国道(广深公路)南太人行天桥","color":"red","lat":22.604038,"lon":113.863582,"towards":[{"lat":22.601936,"lon":113.865562,"auth":"manager","status":"unknown"}]},{"id":0,"name":"留仙一路创业二路路口","color":"blue","lat":22.578934,"lon":113.915625,"towards":null}]}
+{
+    "pois": [
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区大宝路47号(大宝路创业二路路口)",
+            "color": "red",
+            "lat": 22.57759,
+            "lon": 113.914101,
+            "towards": [
+                {
+                    "lat": 22.577267,
+                    "lon": 113.914382,
+                    "auth": "",
+                    "status": ""
+                },
+                {
+                    "lat": 22.578052,
+                    "lon": 113.913598,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.578189,
+                    "lon": 113.914824,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区大宝路33号(广深高速入口闸道)",
+            "color": "red",
+            "lat": 22.571779,
+            "lon": 113.919897,
+            "towards": [
+                {
+                    "lat": 22.571816,
+                    "lon": 113.920914,
+                    "auth": "",
+                    "status": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区宝石路4-1号(中国石化佳运乐加油站西)",
+            "color": "red",
+            "lat": 22.587346,
+            "lon": 113.92123,
+            "towards": [
+                {
+                    "lat": 22.586486,
+                    "lon": 113.922076,
+                    "auth": "",
+                    "status": ""
+                },
+                {
+                    "lat": 22.587984,
+                    "lon": 113.920525,
+                    "auth": "",
+                    "status": ""
+                }
+            ]
+        },
+        {
+            "id": 3367088583799309163,
+            "name": "107国道(广深公路)创业立交",
+            "color": "red",
+            "lat": 22.564268,
+            "lon": 113.897331,
+            "towards": [
+                {
+                    "lat": 22.560873,
+                    "lon": 113.89453,
+                    "auth": "",
+                    "status": ""
+                },
+                {
+                    "lat": 22.566645,
+                    "lon": 113.901445,
+                    "auth": "",
+                    "status": ""
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝民一路裕安二路路口",
+            "color": "red",
+            "lat": 22.567938,
+            "lon": 113.895748,
+            "towards": [
+                {
+                    "lat": 22.567732,
+                    "lon": 113.895465,
+                    "auth": "",
+                    "status": ""
+                },
+                {
+                    "lat": 22.568742,
+                    "lon": 113.89668,
+                    "auth": "",
+                    "status": ""
+                }
+            ]
+        },
+        {
+            "id": 721050423299532949,
+            "name": "宝民一路上川二路路口",
+            "color": "red",
+            "lat": 22.571557,
+            "lon": 113.892056,
+            "towards": [
+                {
+                    "lat": 22.570801,
+                    "lon": 113.892903,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.572146,
+                    "lon": 113.892752,
+                    "auth": "user",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.571332,
+                    "lon": 113.891604,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区前进一路216号(深圳市文汇学校东北)",
+            "color": "red",
+            "lat": 22.576684,
+            "lon": 113.896342,
+            "towards": [
+                {
+                    "lat": 22.575937,
+                    "lon": 113.897125,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.578373,
+                    "lon": 113.894545,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "前进二路与新安四路交叉口北",
+            "color": "red",
+            "lat": 22.579982,
+            "lon": 113.893208,
+            "towards": [
+                {
+                    "lat": 22.5813,
+                    "lon": 113.895239,
+                    "auth": "manager",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.578389,
+                    "lon": 113.894593,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.578605,
+                    "lon": 113.891661,
+                    "auth": "manager",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.581422,
+                    "lon": 113.891763,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区流塘路与前进二路交叉口",
+            "color": "blue",
+            "lat": 22.583859,
+            "lon": 113.889254,
+            "towards": [
+                {
+                    "lat": 22.584733,
+                    "lon": 113.890559,
+                    "auth": "manager",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.582899,
+                    "lon": 113.890143,
+                    "auth": "manager",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.582478,
+                    "lon": 113.887527,
+                    "auth": "manager",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.5847,
+                    "lon": 113.888353,
+                    "auth": "manager",
+                    "status": "close"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "建安二路流塘路路口",
+            "color": "red",
+            "lat": 22.581439,
+            "lon": 113.886258,
+            "towards": [
+                {
+                    "lat": 22.582462,
+                    "lon": 113.887497,
+                    "auth": "manager",
+                    "status": "unknown"
+                },
+                {
+                    "lat": 22.580436,
+                    "lon": 113.885026,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区广深路G107西乡段流塘天桥",
+            "color": "red",
+            "lat": 22.579416,
+            "lon": 113.881812,
+            "towards": [
+                {
+                    "lat": 22.577939,
+                    "lon": 113.883274,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.580591,
+                    "lon": 113.880654,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区西乡大道锦花路口(御龙居东南)",
+            "color": "red",
+            "lat": 22.590208,
+            "lon": 113.890855,
+            "towards": [
+                {
+                    "lat": 22.590422,
+                    "lon": 113.89564,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.589844,
+                    "lon": 113.887388,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安大道与西乡大道交叉口",
+            "color": "red",
+            "lat": 22.578218,
+            "lon": 113.867756,
+            "towards": [
+                {
+                    "lat": 22.579865,
+                    "lon": 113.870694,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.575879,
+                    "lon": 113.870501,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.575013,
+                    "lon": 113.86593,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.580195,
+                    "lon": 113.865722,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "西乡大道与兴业路交叉口",
+            "color": "red",
+            "lat": 22.566465,
+            "lon": 113.857756,
+            "towards": [
+                {
+                    "lat": 22.568441,
+                    "lon": 113.859633,
+                    "auth": "user",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.565142,
+                    "lon": 113.860065,
+                    "auth": "user",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.565417,
+                    "lon": 113.856745,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区西乡大道沿江高速立交桥路段(佳鸿世界名车博览中心北)",
+            "color": "red",
+            "lat": 22.563996,
+            "lon": 113.855125,
+            "towards": [
+                {
+                    "lat": 22.565733,
+                    "lon": 113.857073,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.562007,
+                    "lon": 113.85341,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 7399816797504441022,
+            "name": "金湾大道西乡大道北侧",
+            "color": "red",
+            "lat": 22.5611,
+            "lon": 113.85241,
+            "towards": [
+                {
+                    "lat": 22.55945,
+                    "lon": 113.854288,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.563258,
+                    "lon": 113.850953,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "铲岛路与绿海名居路交叉口(宝安第一外国语学校初中部)",
+            "color": "red",
+            "lat": 22.562472,
+            "lon": 113.860379,
+            "towards": [
+                {
+                    "lat": 22.561948,
+                    "lon": 113.861079,
+                    "auth": "user",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.561973,
+                    "lon": 113.859921,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.562814,
+                    "lon": 113.859948,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "金科路与罗田路交叉口北侧-新安润恒御园南",
+            "color": "red",
+            "lat": 22.553065,
+            "lon": 113.873042,
+            "towards": [
+                {
+                    "lat": 22.551372,
+                    "lon": 113.87469,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.553945,
+                    "lon": 113.872069,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新湖路与裕安一路交叉口(宝安体育场东)",
+            "color": "red",
+            "lat": 22.557834,
+            "lon": 113.88389,
+            "towards": [
+                {
+                    "lat": 22.559653,
+                    "lon": 113.886279,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.556022,
+                    "lon": 113.885907,
+                    "auth": "manager",
+                    "status": "unknown"
+                },
+                {
+                    "lat": 22.556341,
+                    "lon": 113.882168,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.559934,
+                    "lon": 113.881713,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 2789728267864386975,
+            "name": "裕安一路与自由路交叉口",
+            "color": "blue",
+            "lat": 22.565771,
+            "lon": 113.893027,
+            "towards": [
+                {
+                    "lat": 22.559934,
+                    "lon": 113.881713,
+                    "auth": "user",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.565003,
+                    "lon": 113.893785,
+                    "auth": "user",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.564995,
+                    "lon": 113.892282,
+                    "auth": "user",
+                    "status": "close"
+                },
+                {
+                    "lat": 22.56645,
+                    "lon": 113.892278,
+                    "auth": "user",
+                    "status": "close"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安大道甲岸路口(豪城馨庭居西南)",
+            "color": "red",
+            "lat": 22.553456,
+            "lon": 113.897057,
+            "towards": [
+                {
+                    "lat": 22.550998,
+                    "lon": 113.899433,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.555397,
+                    "lon": 113.894787,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区前进一路龙井二路段(御景台东)",
+            "color": "red",
+            "lat": 22.559421,
+            "lon": 113.913764,
+            "towards": [
+                {
+                    "lat": 22.558271,
+                    "lon": 113.914859,
+                    "auth": "user",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.5609,
+                    "lon": 113.912178,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区前进一路40号(阳光家庭)",
+            "color": "red",
+            "lat": 22.558907,
+            "lon": 113.914341,
+            "towards": [
+                {
+                    "lat": 22.557784,
+                    "lon": 113.915324,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.560175,
+                    "lon": 113.912902,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区湖滨东路27号荔山检查站入口(新鸿强餐厅东)",
+            "color": "red",
+            "lat": 22.556539,
+            "lon": 113.914219,
+            "towards": [
+                {
+                    "lat": 22.556802,
+                    "lon": 113.91459,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.556204,
+                    "lon": 113.913746,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广深公路入北环大道辅道南头检查站(路南山区OT天台篮球公园(智恒店)东)",
+            "color": "red",
+            "lat": 22.550742,
+            "lon": 113.909687,
+            "towards": [
+                {
+                    "lat": 22.550156,
+                    "lon": 113.910955,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道入广深公路辅道南头检查站出口（南方腾星汽车销售服务有限公司）-",
+            "color": "red",
+            "lat": 22.549471,
+            "lon": 113.91239,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "南山区深南北环立交桥",
+            "color": "red",
+            "lat": 22.548162,
+            "lon": 113.912967,
+            "towards": [
+                {
+                    "lat": 22.547066,
+                    "lon": 113.911142,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "月亮湾大道深南立交",
+            "color": "red",
+            "lat": 22.541956,
+            "lon": 113.909549,
+            "towards": [
+                {
+                    "lat": 22.544555,
+                    "lon": 113.9096,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南山区月亮湾大道桂湾三路北侧(北大附中深圳南山分校)",
+            "color": "red",
+            "lat": 22.536955,
+            "lon": 113.909462,
+            "towards": [
+                {
+                    "lat": 22.533893,
+                    "lon": 113.909604,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "月亮湾大道东滨路交叉口南侧",
+            "color": "red",
+            "lat": 22.515778,
+            "lon": 113.90577,
+            "towards": [
+                {
+                    "lat": 22.516972,
+                    "lon": 113.907103,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区前海路1019号鼎太风化人行天桥(鼎太风华六期东南)",
+            "color": "red",
+            "lat": 22.515776,
+            "lon": 113.910517,
+            "towards": [
+                {
+                    "lat": 22.513545,
+                    "lon": 113.908598,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.519403,
+                    "lon": 113.913721,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区前海路广深沿江高速桥路段",
+            "color": "red",
+            "lat": 22.507888,
+            "lon": 113.902739,
+            "towards": [
+                {
+                    "lat": 22.506669,
+                    "lon": 113.900654,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.51021,
+                    "lon": 113.905239,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区南海大道学府人行天桥(荟芳园南",
+            "color": "red",
+            "lat": 22.52724,
+            "lon": 113.929301,
+            "towards": [
+                {
+                    "lat": 22.521378,
+                    "lon": 113.929348,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.529695,
+                    "lon": 113.930474,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区深南大道南海立交（腾讯大厦西南）",
+            "color": "red",
+            "lat": 22.539641,
+            "lon": 113.933705,
+            "towards": [
+                {
+                    "lat": 22.53957,
+                    "lon": 113.939411,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.539672,
+                    "lon": 113.931856,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区沙河西路深南大道立交",
+            "color": "red",
+            "lat": 22.540328,
+            "lon": 113.959057,
+            "towards": [
+                {
+                    "lat": 22.540321,
+                    "lon": 113.956056,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市南山区沙河西路高新南九道交叉",
+            "color": "red",
+            "lat": 22.529884,
+            "lon": 113.954853,
+            "towards": [
+                {
+                    "lat": 22.528326,
+                    "lon": 113.954737,
+                    "auth": "user",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.531342,
+                    "lon": 113.954919,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南山区滨海大道沙河西路出口(东向西左转进沙河西路)",
+            "color": "red",
+            "lat": 22.520853,
+            "lon": 113.953935,
+            "towards": [
+                {
+                    "lat": 22.531342,
+                    "lon": 113.954919,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南山区滨海沙河东立交桥西南",
+            "color": "red",
+            "lat": 22.520011,
+            "lon": 113.963335,
+            "towards": [
+                {
+                    "lat": 22.519779,
+                    "lon": 113.970679,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.520523,
+                    "lon": 113.958221,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南山区滨海大道侨城东立交",
+            "color": "red",
+            "lat": 22.524458,
+            "lon": 113.999019,
+            "towards": [
+                {
+                    "lat": 22.525682,
+                    "lon": 114.001011,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道广深高速桥",
+            "color": "red",
+            "lat": 22.52805,
+            "lon": 114.019676,
+            "towards": [
+                {
+                    "lat": 22.528577,
+                    "lon": 114.022083,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南大道广深高速桥",
+            "color": "red",
+            "lat": 22.534622,
+            "lon": 114.016712,
+            "towards": [
+                {
+                    "lat": 22.535124,
+                    "lon": 114.019479,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道香蜜湖立交",
+            "color": "red",
+            "lat": 22.528476,
+            "lon": 114.030652,
+            "towards": [
+                {
+                    "lat": 22.527423,
+                    "lon": 114.035686,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红荔路香蜜湖天桥",
+            "color": "red",
+            "lat": 22.543146,
+            "lon": 114.032009,
+            "towards": [
+                {
+                    "lat": 22.543445,
+                    "lon": 114.03308,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "香蜜湖路市委党校路段",
+            "color": "red",
+            "lat": 22.547385,
+            "lon": 114.024168,
+            "towards": [
+                {
+                    "lat": 22.546153,
+                    "lon": 114.02501,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道侨香村人行天桥",
+            "color": "red",
+            "lat": 22.554186,
+            "lon": 114.011364,
+            "towards": [
+                {
+                    "lat": 22.555363,
+                    "lon": 114.014024,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "芙蓉路新洲路口东侧",
+            "color": "red",
+            "lat": 22.512303,
+            "lon": 114.045284,
+            "towards": [
+                {
+                    "lat": 22.511995,
+                    "lon": 114.046191,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新洲路新洲南天桥",
+            "color": "red",
+            "lat": 22.515531,
+            "lon": 114.045082,
+            "towards": [
+                {
+                    "lat": 22.514463,
+                    "lon": 114.044422,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福强路福强人行天桥",
+            "color": "red",
+            "lat": 22.516325,
+            "lon": 114.051299,
+            "towards": [
+                {
+                    "lat": 22.515838,
+                    "lon": 114.05298,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新洲路福新立交",
+            "color": "red",
+            "lat": 22.532355,
+            "lon": 114.04962,
+            "towards": [
+                {
+                    "lat": 22.530255,
+                    "lon": 114.049655,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南大道新洲立交",
+            "color": "red",
+            "lat": 22.539665,
+            "lon": 114.049458,
+            "towards": [
+                {
+                    "lat": 22.539696,
+                    "lon": 114.051128,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "民田路福华一路口北侧",
+            "color": "red",
+            "lat": 22.536806,
+            "lon": 114.052946,
+            "towards": [
+                {
+                    "lat": 22.537809,
+                    "lon": 114.052923,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "益田路福华一路口南侧",
+            "color": "red",
+            "lat": 22.536298,
+            "lon": 114.056363,
+            "towards": [
+                {
+                    "lat": 22.537296,
+                    "lon": 114.056306,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "益田路福华一路口北侧",
+            "color": "red",
+            "lat": 22.538061,
+            "lon": 114.056298,
+            "towards": [
+                {
+                    "lat": 22.536787,
+                    "lon": 114.056379,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福华三路会展中心路段",
+            "color": "red",
+            "lat": 22.532688,
+            "lon": 114.06113,
+            "towards": [
+                {
+                    "lat": 22.532752,
+                    "lon": 114.062803,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福华一路中心五路口东侧",
+            "color": "red",
+            "lat": 22.536851,
+            "lon": 114.061109,
+            "towards": [
+                {
+                    "lat": 22.536887,
+                    "lon": 114.061856,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福华路海田路口东侧",
+            "color": "red",
+            "lat": 22.534931,
+            "lon": 114.065628,
+            "towards": [
+                {
+                    "lat": 22.534867,
+                    "lon": 114.066455,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道彩田立交",
+            "color": "red",
+            "lat": 22.5289,
+            "lon": 114.068161,
+            "towards": [
+                {
+                    "lat": 22.5289,
+                    "lon": 114.068161,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道福滨人行天桥",
+            "color": "red",
+            "lat": 22.529104,
+            "lon": 114.077745,
+            "towards": [
+                {
+                    "lat": 22.528988,
+                    "lon": 114.069304,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南大道皇岗立交东侧",
+            "color": "red",
+            "lat": 22.540342,
+            "lon": 114.072582,
+            "towards": [
+                {
+                    "lat": 22.540227,
+                    "lon": 114.066678,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南中路中航人行天桥",
+            "color": "red",
+            "lat": 22.540398,
+            "lon": 114.083375,
+            "towards": [
+                {
+                    "lat": 22.540448,
+                    "lon": 114.085439,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红荔路福莲路人行天桥",
+            "color": "red",
+            "lat": 22.548472,
+            "lon": 114.070791,
+            "towards": [
+                {
+                    "lat": 22.548374,
+                    "lon": 114.072868,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红荔路皇岗路口",
+            "color": "red",
+            "lat": 22.54832,
+            "lon": 114.073016,
+            "towards": [
+                {
+                    "lat": 22.548423,
+                    "lon": 114.071394,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路莲花立交",
+            "color": "red",
+            "lat": 22.555798,
+            "lon": 114.06758,
+            "towards": [
+                {
+                    "lat": 22.55538,
+                    "lon": 114.070867,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路笔架山公园人行天桥",
+            "color": "red",
+            "lat": 22.555396,
+            "lon": 114.076246,
+            "towards": [
+                {
+                    "lat": 22.555368,
+                    "lon": 114.073754,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道皇岗路口",
+            "color": "red",
+            "lat": 22.566596,
+            "lon": 114.074146,
+            "towards": [
+                {
+                    "lat": 22.565978,
+                    "lon": 114.069297,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道彩田立交",
+            "color": "red",
+            "lat": 22.565561,
+            "lon": 114.067382,
+            "towards": [
+                {
+                    "lat": 22.566081,
+                    "lon": 114.070875,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅华路中康路路口",
+            "color": "red",
+            "lat": 22.564502,
+            "lon": 114.059275,
+            "towards": [
+                {
+                    "lat": 22.564502,
+                    "lon": 114.059275,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路中康路口",
+            "color": "red",
+            "lat": 22.568409,
+            "lon": 114.059174,
+            "towards": [
+                {
+                    "lat": 22.56843,
+                    "lon": 114.06011,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅华路梅村路口",
+            "color": "red",
+            "lat": 22.564576,
+            "lon": 114.053856,
+            "towards": [
+                {
+                    "lat": 22.56456,
+                    "lon": 114.054542,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅秀路梅华路口",
+            "color": "red",
+            "lat": 22.564823,
+            "lon": 114.048335,
+            "towards": [
+                {
+                    "lat": 22.564799,
+                    "lon": 114.048883,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅秀路口",
+            "color": "red",
+            "lat": 22.567767,
+            "lon": 114.047398,
+            "towards": [
+                {
+                    "lat": 22.567786,
+                    "lon": 114.048209,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅亭路口",
+            "color": "red",
+            "lat": 22.567069,
+            "lon": 114.045195,
+            "towards": [
+                {
+                    "lat": 22.567414,
+                    "lon": 114.045062,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅林路梅山街路口",
+            "color": "red",
+            "lat": 22.563815,
+            "lon": 114.038347,
+            "towards": [
+                {
+                    "lat": 22.564686,
+                    "lon": 114.039331,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北环大道新洲立交",
+            "color": "red",
+            "lat": 22.560116,
+            "lon": 114.041277,
+            "towards": [
+                {
+                    "lat": 22.561279,
+                    "lon": 114.047153,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "景田路景蜜村公园路段",
+            "color": "red",
+            "lat": 22.558345,
+            "lon": 114.038561,
+            "towards": [
+                {
+                    "lat": 22.557717,
+                    "lon": 114.039085,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "莲花路景田西路路口",
+            "color": "red",
+            "lat": 22.553379,
+            "lon": 114.043405,
+            "towards": [
+                {
+                    "lat": 22.553652,
+                    "lon": 114.046273,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福龙路横龙山隧道入口",
+            "color": "red",
+            "lat": 22.566356,
+            "lon": 114.016909,
+            "towards": [
+                {
+                    "lat": 22.567655,
+                    "lon": 114.016063,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "福龙路横龙山隧道出口",
+            "color": "red",
+            "lat": 22.566168,
+            "lon": 114.016403,
+            "towards": [
+                {
+                    "lat": 22.563497,
+                    "lon": 114.018099,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道爱华南人行天桥",
+            "color": "red",
+            "lat": 22.534738,
+            "lon": 114.091175,
+            "towards": [
+                {
+                    "lat": 22.534769,
+                    "lon": 114.093036,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "滨河大道红岭南人行天桥",
+            "color": "red",
+            "lat": 22.53561,
+            "lon": 114.10458,
+            "towards": [
+                {
+                    "lat": 22.53566,
+                    "lon": 114.107988,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "上步中路同德人行天桥",
+            "color": "red",
+            "lat": 22.546254,
+            "lon": 114.09627,
+            "towards": [
+                {
+                    "lat": 22.546994,
+                    "lon": 114.096249,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "上步中路园西天桥",
+            "color": "red",
+            "lat": 22.553172,
+            "lon": 114.096141,
+            "towards": [
+                {
+                    "lat": 22.552525,
+                    "lon": 114.096168,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗西路园岭人行天桥",
+            "color": "red",
+            "lat": 22.555799,
+            "lon": 114.099501,
+            "towards": [
+                {
+                    "lat": 22.555792,
+                    "lon": 114.100836,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗东路园岭人行天桥",
+            "color": "red",
+            "lat": 22.555927,
+            "lon": 114.107003,
+            "towards": [
+                {
+                    "lat": 22.55591,
+                    "lon": 114.109116,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南东路蔡屋围人行天桥",
+            "color": "red",
+            "lat": 22.541626,
+            "lon": 114.108835,
+            "towards": [
+                {
+                    "lat": 22.541899,
+                    "lon": 114.110643,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深南东路地王大厦路段",
+            "color": "red",
+            "lat": 22.541735,
+            "lon": 114.109503,
+            "towards": [
+                {
+                    "lat": 22.542176,
+                    "lon": 114.112379,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新园路天虹商场路段",
+            "color": "red",
+            "lat": 22.548212,
+            "lon": 114.118737,
+            "towards": [
+                {
+                    "lat": 22.547689,
+                    "lon": 114.118632,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东门路晒步路口",
+            "color": "red",
+            "lat": 22.548559,
+            "lon": 114.122295,
+            "towards": [
+                {
+                    "lat": 22.547555,
+                    "lon": 114.121773,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "笋岗东路儿童公园人行天桥",
+            "color": "red",
+            "lat": 22.556304,
+            "lon": 114.123299,
+            "towards": [
+                {
+                    "lat": 22.556113,
+                    "lon": 114.120923,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沿河路北斗人行天桥",
+            "color": "red",
+            "lat": 22.5435,
+            "lon": 114.138385,
+            "towards": [
+                {
+                    "lat": 22.544466,
+                    "lon": 114.13962,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沿河北路罗芳立交北侧",
+            "color": "red",
+            "lat": 22.553441,
+            "lon": 114.144701,
+            "towards": [
+                {
+                    "lat": 22.551439,
+                    "lon": 114.144095,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路罗芳人行天桥",
+            "color": "red",
+            "lat": 22.552728,
+            "lon": 114.149686,
+            "towards": [
+                {
+                    "lat": 22.552728,
+                    "lon": 114.149686,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "延芳路罗沙边防通道桥",
+            "color": "red",
+            "lat": 22.554227,
+            "lon": 114.15513,
+            "towards": [
+                {
+                    "lat": 22.553678,
+                    "lon": 114.155473,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路仙湖立交",
+            "color": "red",
+            "lat": 22.558276,
+            "lon": 114.162457,
+            "towards": [
+                {
+                    "lat": 22.556563,
+                    "lon": 114.160143,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "爱国路水库新村天桥",
+            "color": "red",
+            "lat": 22.562192,
+            "lon": 114.139441,
+            "towards": [
+                {
+                    "lat": 22.561236,
+                    "lon": 114.138668,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沙湾路东湖路口北侧",
+            "color": "red",
+            "lat": 22.576199,
+            "lon": 114.145223,
+            "towards": [
+                {
+                    "lat": 22.57439,
+                    "lon": 114.144772,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "金稻田路罗湖看守所路段",
+            "color": "red",
+            "lat": 22.58869,
+            "lon": 114.126734,
+            "towards": [
+                {
+                    "lat": 22.588758,
+                    "lon": 114.127801,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "文锦北路草埔立交南",
+            "color": "red",
+            "lat": 22.58846,
+            "lon": 114.125053,
+            "towards": [
+                {
+                    "lat": 22.583256,
+                    "lon": 114.117217,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "西环路清水河检查站入口",
+            "color": "red",
+            "lat": 22.590305,
+            "lon": 114.108182,
+            "towards": [
+                {
+                    "lat": 22.590092,
+                    "lon": 114.108688,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "临平一路",
+            "color": "red",
+            "lat": 22.585696,
+            "lon": 114.106737,
+            "towards": [
+                {
+                    "lat": 22.585251,
+                    "lon": 114.107135,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红岗路清水河检查站",
+            "color": "red",
+            "lat": 22.578075,
+            "lon": 114.105795,
+            "towards": [
+                {
+                    "lat": 22.578898,
+                    "lon": 114.106071,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝洁路清水河检查站出",
+            "color": "red",
+            "lat": 22.578898,
+            "lon": 114.106071,
+            "towards": [
+                {
+                    "lat": 22.578898,
+                    "lon": 114.106071,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布龙路中海怡翠山庄天桥",
+            "color": "red",
+            "lat": 22.62256,
+            "lon": 114.10893,
+            "towards": [
+                {
+                    "lat": 22.620518,
+                    "lon": 114.112193,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布沙路中翠路口",
+            "color": "red",
+            "lat": 22.607294,
+            "lon": 114.139621,
+            "towards": [
+                {
+                    "lat": 22.606888,
+                    "lon": 114.141307,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东西干道大芬新村",
+            "color": "red",
+            "lat": 22.616365,
+            "lon": 114.134409,
+            "towards": [
+                {
+                    "lat": 22.61738,
+                    "lon": 114.135309,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "布沙路沙湾检查站入",
+            "color": "red",
+            "lat": 22.606403,
+            "lon": 114.160973,
+            "towards": [
+                {
+                    "lat": 22.606219,
+                    "lon": 114.160003,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "丹沙路沙湾检查站入",
+            "color": "red",
+            "lat": 22.608737,
+            "lon": 114.163444,
+            "towards": [
+                {
+                    "lat": 22.607959,
+                    "lon": 114.16392,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沙荷路勤富路口",
+            "color": "red",
+            "lat": 22.622114,
+            "lon": 114.193156,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "勤富路牛始埔路东侧",
+            "color": "red",
+            "lat": 22.625171,
+            "lon": 114.18478,
+            "towards": [
+                {
+                    "lat": 22.625027,
+                    "lon": 114.185883,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "六和路沙荷路西侧",
+            "color": "red",
+            "lat": 22.628755,
+            "lon": 114.199275,
+            "towards": [
+                {
+                    "lat": 22.630072,
+                    "lon": 114.200729,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "富康路上围新村路段",
+            "color": "red",
+            "lat": 22.640033,
+            "lon": 114.211518,
+            "towards": [
+                {
+                    "lat": 22.639311,
+                    "lon": 114.21172,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "保康路惠盐公路西侧",
+            "color": "red",
+            "lat": 22.646177,
+            "lon": 114.213993,
+            "towards": [
+                {
+                    "lat": 22.646294,
+                    "lon": 114.214167,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "横岗松茂路松柏路口东侧",
+            "color": "red",
+            "lat": 22.649169,
+            "lon": 114.21317,
+            "towards": [
+                {
+                    "lat": 22.64934,
+                    "lon": 114.212218,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "横岗松茂路龙岗大道南侧",
+            "color": "red",
+            "lat": 22.649192,
+            "lon": 114.21319,
+            "towards": [
+                {
+                    "lat": 22.649192,
+                    "lon": 114.21319,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "海景二路金融路路口",
+            "color": "red",
+            "lat": 22.548362,
+            "lon": 114.23604,
+            "towards": [
+                {
+                    "lat": 22.548203,
+                    "lon": 114.236753,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "罗沙路长岭人行天桥",
+            "color": "red",
+            "lat": 22.556385,
+            "lon": 114.183937,
+            "towards": [
+                {
+                    "lat": 22.554312,
+                    "lon": 114.186706,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "永安路梧桐山大道路口",
+            "color": "red",
+            "lat": 22.587289,
+            "lon": 114.243486,
+            "towards": [
+                {
+                    "lat": 22.587678,
+                    "lon": 114.244163,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "永安北三街东海道路口",
+            "color": "red",
+            "lat": 22.596115,
+            "lon": 114.247691,
+            "towards": [
+                {
+                    "lat": 22.594996,
+                    "lon": 114.248044,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北三道永安路口",
+            "color": "red",
+            "lat": 22.59557,
+            "lon": 114.251962,
+            "towards": [
+                {
+                    "lat": 22.596518,
+                    "lon": 114.251048,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北三道盐田路路口",
+            "color": "red",
+            "lat": 22.591967,
+            "lon": 114.258336,
+            "towards": [
+                {
+                    "lat": 22.591674,
+                    "lon": 114.259674,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东海道四街洪安二街",
+            "color": "red",
+            "lat": 22.586127,
+            "lon": 114.258964,
+            "towards": [
+                {
+                    "lat": 22.586729,
+                    "lon": 114.259382,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "北山道盐田土幼检查站入口",
+            "color": "red",
+            "lat": 22.61807,
+            "lon": 114.229917,
+            "towards": [
+                {
+                    "lat": 22.617975,
+                    "lon": 114.230368,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "盐梅路海关盐田基地路段",
+            "color": "red",
+            "lat": 22.586503,
+            "lon": 114.283718,
+            "towards": [
+                {
+                    "lat": 22.586476,
+                    "lon": 114.285456,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "环梅路盐梅路路口",
+            "color": "red",
+            "lat": 22.590807,
+            "lon": 114.305371,
+            "towards": [
+                {
+                    "lat": 22.591585,
+                    "lon": 114.305753,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "环梅路环碧路路口",
+            "color": "red",
+            "lat": 22.595897,
+            "lon": 114.302529,
+            "towards": [
+                {
+                    "lat": 22.596075,
+                    "lon": 114.301757,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "闲云路东部华侨城路段",
+            "color": "red",
+            "lat": 22.603048,
+            "lon": 114.307668,
+            "towards": [
+                {
+                    "lat": 22.603815,
+                    "lon": 114.307574,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路环梅路口西侧500米",
+            "color": "red",
+            "lat": 22.600335,
+            "lon": 114.30826,
+            "towards": [
+                {
+                    "lat": 22.599907,
+                    "lon": 114.309306,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路环梅路(游艇会)",
+            "color": "red",
+            "lat": 22.598203,
+            "lon": 114.311403,
+            "towards": [
+                {
+                    "lat": 22.598653,
+                    "lon": 114.312956,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "梅盐路小梅沙培训基地路段",
+            "color": "red",
+            "lat": 22.602356,
+            "lon": 114.333382,
+            "towards": [
+                {
+                    "lat": 22.602335,
+                    "lon": 114.332742,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路溪涌小学路段",
+            "color": "red",
+            "lat": 22.610388,
+            "lon": 114.362304,
+            "towards": [
+                {
+                    "lat": 22.610833,
+                    "lon": 114.363643,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路土洋高速入口前100米",
+            "color": "red",
+            "lat": 22.613123,
+            "lon": 114.400944,
+            "towards": [
+                {
+                    "lat": 22.613072,
+                    "lon": 114.399512,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "s30(盐坝高速)土洋收费站",
+            "color": "red",
+            "lat": 22.613148,
+            "lon": 114.397419,
+            "towards": [
+                {
+                    "lat": 22.613124,
+                    "lon": 114.3978,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深葵路沙鱼涌路段",
+            "color": "red",
+            "lat": 22.611859,
+            "lon": 114.411158,
+            "towards": [
+                {
+                    "lat": 22.612028,
+                    "lon": 114.410647,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "葵鹏路金业大道路口状态未知",
+            "color": "red",
+            "lat": 22.616773,
+            "lon": 114.425123,
+            "towards": [
+                {
+                    "lat": 22.617003,
+                    "lon": 114.425221,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路盐坝跨线桥",
+            "color": "red",
+            "lat": 22.618355,
+            "lon": 114.423556,
+            "towards": [
+                {
+                    "lat": 22.6178,
+                    "lon": 114.423752,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路盐坝高速入口匝道",
+            "color": "red",
+            "lat": 22.622998,
+            "lon": 114.421928,
+            "towards": [
+                {
+                    "lat": 22.621771,
+                    "lon": 114.422244,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路葵涌高速路口",
+            "color": "red",
+            "lat": 22.622637,
+            "lon": 114.421959,
+            "towards": [
+                {
+                    "lat": 22.62265,
+                    "lon": 114.422951,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "金业大道知己集团路段",
+            "color": "red",
+            "lat": 22.624212,
+            "lon": 114.427593,
+            "towards": [
+                {
+                    "lat": 22.622696,
+                    "lon": 114.427617,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路丰树山路路口",
+            "color": "red",
+            "lat": 22.633753,
+            "lon": 114.417921,
+            "towards": [
+                {
+                    "lat": 22.633753,
+                    "lon": 114.418313,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵路金岭路口北侧",
+            "color": "red",
+            "lat": 22.638886,
+            "lon": 114.41496,
+            "towards": [
+                {
+                    "lat": 22.637974,
+                    "lon": 114.415414,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪葵公路新葵坝隧道西侧",
+            "color": "red",
+            "lat": 22.634497,
+            "lon": 114.442982,
+            "towards": [
+                {
+                    "lat": 22.63493,
+                    "lon": 114.444557,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路迭福山隧道西侧",
+            "color": "red",
+            "lat": 22.608961,
+            "lon": 114.434378,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "葵鹏路咸头岭路段",
+            "color": "red",
+            "lat": 22.587758,
+            "lon": 114.442184,
+            "towards": [
+                {
+                    "lat": 22.587748,
+                    "lon": 114.442719,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "迭福路迭福立交东侧",
+            "color": "red",
+            "lat": 22.599483,
+            "lon": 114.462098,
+            "towards": [
+                {
+                    "lat": 22.599734,
+                    "lon": 114.4627,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "大鹏迎宾路鹏飞路口东侧",
+            "color": "red",
+            "lat": 22.599573,
+            "lon": 114.464189,
+            "towards": [
+                {
+                    "lat": 22.599242,
+                    "lon": 114.465119,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "鹏飞路核电基地大门",
+            "color": "red",
+            "lat": 22.593583,
+            "lon": 114.524932,
+            "towards": [
+                {
+                    "lat": 22.593465,
+                    "lon": 114.526407,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "葵南路水头海鲜街北侧",
+            "color": "red",
+            "lat": 22.565446,
+            "lon": 114.494801,
+            "towards": [
+                {
+                    "lat": 22.565014,
+                    "lon": 114.494893,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪西路水头路南侧",
+            "color": "red",
+            "lat": 22.555561,
+            "lon": 114.487458,
+            "towards": [
+                {
+                    "lat": 22.555201,
+                    "lon": 114.487176,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "新东路新大路口东侧",
+            "color": "red",
+            "lat": 22.541145,
+            "lon": 114.512843,
+            "towards": [
+                {
+                    "lat": 22.541967,
+                    "lon": 114.516001,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南西路新丰路路口",
+            "color": "red",
+            "lat": 22.527701,
+            "lon": 114.506523,
+            "towards": [
+                {
+                    "lat": 22.527419,
+                    "lon": 114.50684,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坑梓金田路(市界)",
+            "color": "red",
+            "lat": 22.697962,
+            "lon": 114.43213,
+            "towards": [
+                {
+                    "lat": 22.698645,
+                    "lon": 114.432375,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山大道沙田收费站",
+            "color": "red",
+            "lat": 22.762799,
+            "lon": 114.420725,
+            "towards": [
+                {
+                    "lat": 22.762566,
+                    "lon": 114.419699,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深汕公路沙田收费站",
+            "color": "red",
+            "lat": 22.762419,
+            "lon": 114.418997,
+            "towards": [
+                {
+                    "lat": 22.763454,
+                    "lon": 114.423719,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "丹梓东路锦绣北路口东侧",
+            "color": "red",
+            "lat": 22.753395,
+            "lon": 114.417948,
+            "towards": [
+                {
+                    "lat": 22.753447,
+                    "lon": 114.421006,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦绣东路荣田路口东侧",
+            "color": "red",
+            "lat": 22.745333,
+            "lon": 114.412428,
+            "towards": [
+                {
+                    "lat": 22.745537,
+                    "lon": 114.415282,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "白石路坪山大道北侧",
+            "color": "red",
+            "lat": 22.75088,
+            "lon": 114.377475,
+            "towards": [
+                {
+                    "lat": 22.751538,
+                    "lon": 114.377447,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坑梓白石路(市界)",
+            "color": "red",
+            "lat": 22.760978,
+            "lon": 114.375647,
+            "towards": [
+                {
+                    "lat": 22.759835,
+                    "lon": 114.375869,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深汕公路丹梓西路南侧",
+            "color": "red",
+            "lat": 22.717356,
+            "lon": 114.355937,
+            "towards": [
+                {
+                    "lat": 22.71566,
+                    "lon": 114.35495,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山大道丹梓西路南侧",
+            "color": "red",
+            "lat": 22.716194,
+            "lon": 114.355339,
+            "towards": [
+                {
+                    "lat": 22.71578,
+                    "lon": 114.355038,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山丹梓西路新和四路段",
+            "color": "red",
+            "lat": 22.709125,
+            "lon": 114.342909,
+            "towards": [
+                {
+                    "lat": 22.70985,
+                    "lon": 114.344945,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "东纵路瑞景路路口",
+            "color": "red",
+            "lat": 22.686946,
+            "lon": 114.370478,
+            "towards": [
+                {
+                    "lat": 22.682009,
+                    "lon": 114.373248,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深汕公路坪山文化广场路段",
+            "color": "red",
+            "lat": 22.694933,
+            "lon": 114.337842,
+            "towards": [
+                {
+                    "lat": 22.693314,
+                    "lon": 114.340226,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山大道锦龙大道路口东侧",
+            "color": "red",
+            "lat": 22.677963,
+            "lon": 114.32801,
+            "towards": [
+                {
+                    "lat": 22.678542,
+                    "lon": 114.329499,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦龙大道宝山路口北侧",
+            "color": "red",
+            "lat": 22.687613,
+            "lon": 114.324445,
+            "towards": [
+                {
+                    "lat": 22.686683,
+                    "lon": 114.324581,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦龙大道宝龙大道路口南侧北行",
+            "color": "red",
+            "lat": 22.690564,
+            "lon": 114.319637,
+            "towards": [
+                {
+                    "lat": 22.689424,
+                    "lon": 114.321291,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦龙大道清风大道路口",
+            "color": "red",
+            "lat": 22.691156,
+            "lon": 114.318652,
+            "towards": [
+                {
+                    "lat": 22.69155,
+                    "lon": 114.314538,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦龙大道宝龙大道路口南侧",
+            "color": "red",
+            "lat": 22.693221,
+            "lon": 114.315422,
+            "towards": [
+                {
+                    "lat": 22.692328,
+                    "lon": 114.316793,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山站前路坪兰路段",
+            "color": "red",
+            "lat": 22.706475,
+            "lon": 114.329974,
+            "towards": [
+                {
+                    "lat": 22.706615,
+                    "lon": 114.331852,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "坪山丹梓西路高铁站路段天桥",
+            "color": "red",
+            "lat": 22.708897,
+            "lon": 114.3264,
+            "towards": [
+                {
+                    "lat": 22.709343,
+                    "lon": 114.328547,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深汕公路宝龙大道路口东侧",
+            "color": "red",
+            "lat": 22.703278,
+            "lon": 114.321953,
+            "towards": [
+                {
+                    "lat": 22.702126,
+                    "lon": 114.32358,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "锦龙四路宝龙大道",
+            "color": "red",
+            "lat": 22.702259,
+            "lon": 114.320455,
+            "towards": [
+                {
+                    "lat": 22.704059,
+                    "lon": 114.317573,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "深汕公路宝龙大道路口西侧",
+            "color": "red",
+            "lat": 22.704241,
+            "lon": 114.320516,
+            "towards": [
+                {
+                    "lat": 22.703654,
+                    "lon": 114.32125,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙岗区宝其路宝其乐幼儿园路段",
+            "color": "red",
+            "lat": 22.705984,
+            "lon": 114.313643,
+            "towards": [
+                {
+                    "lat": 22.704934,
+                    "lon": 114.313912,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "吓坑路同心路",
+            "color": "red",
+            "lat": 22.720398,
+            "lon": 114.315374,
+            "towards": [
+                {
+                    "lat": 22.721297,
+                    "lon": 114.317272,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙岗同心路榕树吓村路段",
+            "color": "red",
+            "lat": 22.719189,
+            "lon": 114.311381,
+            "towards": [
+                {
+                    "lat": 22.719511,
+                    "lon": 114.312532,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙岗同心路同力路路口",
+            "color": "blue",
+            "lat": 22.717931,
+            "lon": 114.308936,
+            "towards": [
+                {
+                    "lat": 22.718271,
+                    "lon": 114.309536,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "爱南路蛇岭隧道东侧",
+            "color": "red",
+            "lat": 22.708514,
+            "lon": 114.27726,
+            "towards": [
+                {
+                    "lat": 22.708124,
+                    "lon": 114.279228,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙岗区爱南路宝荷路北侧",
+            "color": "red",
+            "lat": 22.698052,
+            "lon": 114.245735,
+            "towards": [
+                {
+                    "lat": 22.695861,
+                    "lon": 114.243829,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙岗区爱南路宝荷路南侧",
+            "color": "red",
+            "lat": 22.696811,
+            "lon": 114.24597,
+            "towards": [
+                {
+                    "lat": 22.695994,
+                    "lon": 114.250649,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "沙荷路园湖路西侧",
+            "color": "red",
+            "lat": 22.677429,
+            "lon": 114.243267,
+            "towards": [
+                {
+                    "lat": 22.676906,
+                    "lon": 114.242826,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "红棉三路信义家园路段",
+            "color": "red",
+            "lat": 22.660206,
+            "lon": 114.210446,
+            "towards": [
+                {
+                    "lat": 22.659191,
+                    "lon": 114.209112,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "G15机荷高速北通道出口",
+            "color": "red",
+            "lat": 22.67924,
+            "lon": 114.210361,
+            "towards": [
+                {
+                    "lat": 22.679227,
+                    "lon": 114.209785,
+                    "auth": "user",
+                    "status": "close"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "G15机荷高速水关高速出口",
+            "color": "red",
+            "lat": 22.680063,
+            "lon": 114.209308,
+            "towards": [
+                {
+                    "lat": 22.681462,
+                    "lon": 114.209525,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙翔大道体育中心路段",
+            "color": "red",
+            "lat": 22.680931,
+            "lon": 114.209272,
+            "towards": [
+                {
+                    "lat": 22.678832,
+                    "lon": 114.208985,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "盐龙大道大岭鼓隧道北侧100m",
+            "color": "red",
+            "lat": 22.685252,
+            "lon": 114.207439,
+            "towards": [
+                {
+                    "lat": 22.684807,
+                    "lon": 114.207659,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "龙飞大道龙岗大道西侧",
+            "color": "red",
+            "lat": 22.686726,
+            "lon": 114.225699,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "龙飞大道深惠公路西侧",
+            "color": "red",
+            "lat": 22.686712,
+            "lon": 114.226655,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "南山区北环沙河东立交桥",
+            "color": "red",
+            "lat": 22.553714,
+            "lon": 113.966663,
+            "towards": [
+                {
+                    "lat": 22.554373,
+                    "lon": 113.970304,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.553369,
+                    "lon": 113.958505,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "南山区北环沙河西立交",
+            "color": "red",
+            "lat": 22.553362,
+            "lon": 113.957812,
+            "towards": [
+                {
+                    "lat": 22.553386,
+                    "lon": 113.962985,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.552534,
+                    "lon": 113.951222,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "同安路荔山检查站出口",
+            "color": "red",
+            "lat": 22.557182,
+            "lon": 113.920409,
+            "towards": [
+                {
+                    "lat": 22.556886,
+                    "lon": 113.920665,
+                    "auth": "user",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.557549,
+                    "lon": 113.919863,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝石路南光高速桥南300米",
+            "color": "red",
+            "lat": 22.612899,
+            "lon": 113.925797,
+            "towards": [
+                {
+                    "lat": 22.610342,
+                    "lon": 113.925718,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区牛成村路路口(陈村花场东)",
+            "color": "red",
+            "lat": 22.614348,
+            "lon": 113.925939,
+            "towards": [
+                {
+                    "lat": 22.612899,
+                    "lon": 113.925797,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.617272,
+                    "lon": 113.925993,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区宝石路南光高速桥北侧",
+            "color": "red",
+            "lat": 22.61709,
+            "lon": 113.925913,
+            "towards": [
+                {
+                    "lat": 22.614348,
+                    "lon": 113.925939,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.619574,
+                    "lon": 113.925918,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区南光高速公路宝石收费站北侧",
+            "color": "red",
+            "lat": 22.618113,
+            "lon": 113.923267,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "松白路白芒检查站入口",
+            "color": "red",
+            "lat": 22.6307,
+            "lon": 113.935143,
+            "towards": [
+                {
+                    "lat": 22.629012,
+                    "lon": 113.936604,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝石路松柏路路口",
+            "color": "red",
+            "lat": 22.640975,
+            "lon": 113.926323,
+            "towards": [
+                {
+                    "lat": 22.641743,
+                    "lon": 113.926559,
+                    "auth": "manager",
+                    "status": "unknown"
+                },
+                {
+                    "lat": 22.639265,
+                    "lon": 113.926264,
+                    "auth": "manager",
+                    "status": "unknown"
+                },
+                {
+                    "lat": 22.641857,
+                    "lon": 113.925192,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "松柏路塘头一号路路口",
+            "color": "red",
+            "lat": 22.640049,
+            "lon": 113.925105,
+            "towards": [
+                {
+                    "lat": 22.639332,
+                    "lon": 113.925482,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.639636,
+                    "lon": 113.92426,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.640945,
+                    "lon": 113.924812,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区宝源路松茂柏景湾路口(西南方一个，北方一个)",
+            "color": "red",
+            "lat": 22.586659,
+            "lon": 113.840625,
+            "towards": [
+                {
+                    "lat": 22.585875,
+                    "lon": 113.841804,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.587434,
+                    "lon": 113.839524,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "广东省深圳市宝安区金湾大道西湾公园北侧",
+            "color": "red",
+            "lat": 22.591614,
+            "lon": 113.835298,
+            "towards": [
+                {
+                    "lat": 22.589727,
+                    "lon": 113.835845,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.593963,
+                    "lon": 113.834876,
+                    "auth": "manager",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 3817868705845181171,
+            "name": "宝安大道与固戍一路交叉口",
+            "color": "red",
+            "lat": 22.596883,
+            "lon": 113.849217,
+            "towards": [
+                {
+                    "lat": 22.594992,
+                    "lon": 113.849976,
+                    "auth": "manager",
+                    "status": "open"
+                },
+                {
+                    "lat": 22.598804,
+                    "lon": 113.848145,
+                    "auth": "user",
+                    "status": "open"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "航空路学子路路口",
+            "color": "red",
+            "lat": 22.610817,
+            "lon": 113.852259,
+            "towards": [
+                {
+                    "lat": 22.611054,
+                    "lon": 113.852833,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "宝安区宝安大道航城大道路口",
+            "color": "red",
+            "lat": 22.604146,
+            "lon": 113.845458,
+            "towards": [
+                {
+                    "lat": 22.604853,
+                    "lon": 113.84722,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "",
+            "color": "red",
+            "lat": 22.604417,
+            "lon": 113.83682,
+            "towards": null
+        },
+        {
+            "id": 0,
+            "name": "107国道(广深公路)南太人行天桥",
+            "color": "red",
+            "lat": 22.604038,
+            "lon": 113.863582,
+            "towards": [
+                {
+                    "lat": 22.601936,
+                    "lon": 113.865562,
+                    "auth": "manager",
+                    "status": "unknown"
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "留仙一路创业二路路口",
+            "color": "blue",
+            "lat": 22.578934,
+            "lon": 113.915625,
+            "towards": null
+        }
+    ]
+}
